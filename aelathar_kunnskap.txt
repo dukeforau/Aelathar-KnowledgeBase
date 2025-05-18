@@ -12,7 +12,9 @@ Aelathar, the Scorched Cradle
 {{banner NardoGames}}
 
 {{footnote
-  The Scorched Cradle: a desert where life wields magic's corrupt, double-edged gift.
+  The Scorched Cradle:
+
+  a desert where life wields magic's corrupt, double-edged gift.
 }}
 
 ![background image](https://i.ibb.co/9F84jHQ/Frontpagetest2.png){position:absolute,bottom:0,left:0,height:100%}
@@ -31,12 +33,119 @@ Aelathar, the Scorched Cradle
 
 <img src="https://i.ibb.co/wFQMRdqT/Wav2o1d-MMb-Aqq-Zus8mg-U-95kz8-bg-rmvd.png" alt="Beskrivelse av bildet" class="bilde-nedre-hoyre">
 
+\page
+{{insideCover}}
+
+Aelathar
+the Scorched Cradle
+Campaign Setting Core Rules Book
+
+
+{{imageMaskCenter12,--offsetX:0%,--offsetY:0%,--rotation:0
+  ![background image](https://i.ibb.co/Rpg2JZPt/2ndpage.png){position:absolute,bottom:0,left:0,height:76%}
+}}
+
+{{logo ![](https://i.ibb.co/QFLvfR18/Untitled-design-3.png)}}
+
+\page
+{{toc,wide
+Contents
+
+### [{{ Aelathar, the Scorched Cradle}}{{ 4}}](#p4)
+#### [{{ I. Overview}}{{ 4}}](#p4)
+[{{ Core Concept & Tone}}{{ 4}}](#p4)
+[{{ Inspirations}}{{ 4}}](#p4)
+#### [{{ The World of Aelathar}}{{ 4}}](#p4)
+[{{ Geography}}{{ 4}}](#p4)
+[{{ Key Landmarks}}{{ 5}}](#p5)
+#### [{{ III. History of Aelathar}}{{ 6}}](#p6)
+[{{ The Age of Verdant Harmony}}{{ 6}}](#p6)
+[{{ The Seeds of Discord}}{{ 6}}](#p6)
+[{{ The War of Sundering}}{{ 6}}](#p6)
+[{{ The Veilshatter Cataclysm}}{{ 6}}](#p6)
+[{{ The Age of Scorching}}{{ 7}}](#p7)
+### [{{ Peoples of a Scarred World}}{{ 8}}](#p8)
+#### [{{ Humans:}}{{ 8}}](#p8)
+#### [{{ Elves:}}{{ 9}}](#p9)
+#### [{{ Dwarves:}}{{ 10}}](#p10)
+#### [{{ Halflings:}}{{ 10}}](#p10)
+#### [{{ Dragonborn:}}{{ 11}}](#p11)
+#### [{{ Gnomes:}}{{ 12}}](#p12)
+#### [{{ Goliaths:}}{{ 13}}](#p13)
+#### [{{ Orcs:}}{{ 14}}](#p14)
+#### [{{ Tieflings:}}{{ 14}}](#p14)
+#### [{{ Aasimar:}}{{ 15}}](#p15)
+#### [{{ Magic in Aelathar}}{{ 16}}](#p16)
+[{{ The Veil: Nature and Instability}}{{ 16}}](#p16)
+[{{ Arcane Magic: The Double-Edged Sword}}{{ 16}}](#p16)
+### [{{ Veilstorms}}{{ 17}}](#p17)
+#### [{{ Veil Corruption}}{{ 18}}](#p18)
+#### [{{ Long-Term Effects of Magic Use (Crystallization):}}{{ 18}}](#p18)
+#### [{{ Druidic and Clerical Magic:}}{{ 19}}](#p19)
+#### [{{ Pros and Cons of Arcane Magic:}}{{ 19}}](#p19)
+#### [{{ Veilshard Extraction:}}{{ 20}}](#p20)
+#### [{{ Pantheon of Aelathar}}{{ 21}}](#p21)
+[{{ Major Deities (Figures of the Cataclysm & Primary Powers)}}{{ 21}}](#p21)
+### [{{ Lesser Deities, Demigods, and Other Powers}}{{ 26}}](#p26)
+#### [{{ Major Cities and Regions}}{{ 27}}](#p27)
+[{{ Korrath (Capital of Korridan Region – likely in the defensible foothills bordering the Salt Wastes and Ashen Peaks)}}{{ 27}}](#p27)
+[{{ Iravar (Capital of Lyssira Region – heart of the Veiljungles)}}{{ 27}}](#p27)
+[{{ Orrthar (Capital of Talrova Region – within the Ashen Peaks)}}{{ 28}}](#p28)
+[{{ Zyndralis (Capital of Zynara Region – built around/near the Black Spire in the Scorched Cradle)}}{{ 28}}](#p28)
+#### [{{ Factions & Organizations}}{{ 29}}](#p29)
+#### [{{ Themes & Adventure Hooks}}{{ 29}}](#p29)
+### [{{ Religious Ceremonies and Festivals}}{{ 30}}](#p30)
+#### [{{ Voryx, the Shattered Wyrm}}{{ 30}}](#p30)
+#### [{{ Theramach, the Everflame}}{{ 30}}](#p30)
+#### [{{ Nyraea, the Veilweaver}}{{ 31}}](#p31)
+#### [{{ Kaelgrin, the Maw of the Earth}}{{ 31}}](#p31)
+#### [{{ Eryssia, Bloom of Resilience}}{{ 32}}](#p32)
+#### [{{ Saevyr, the Iron Judge}}{{ 32}}](#p32)
+### [{{ NOTES and etc}}{{ 34}}](#p34)
+#### [{{ Voryx’s Regret (The Shard of the Veilrend)}}{{ 35}}](#p35)
+#### [{{ The Unfettered Heart of Theramach}}{{ 36}}](#p36)
+#### [{{ The Scales of Sylvandros (The Last Celestial’s Mandate)}}{{ 37}}](#p37)
+#### [{{ Kaelgrin’s Resonant Core}}{{ 38}}](#p38)
+#### [{{ The Shroud of Unmaking (The Veil’s Scar)}}{{ 39}}](#p39)
+### [{{ Denizens of a Shattered World—The Bestiary of Aelathar}}{{ 40}}](#p40)
+#### [{{ Veil Grub Swarm}}{{ 41}}](#p41)
+#### [{{ Veil-Twisted Mauler}}{{ 41}}](#p41)
+#### [{{ Shard-Heart Desolator}}{{ 42}}](#p42)
+#### [{{ Shifting Mote}}{{ 43}}](#p43)
+#### [{{ Salt-Cryst Stalker}}{{ 44}}](#p44)
+#### [{{ Veil-Whisperer Cultist}}{{ 45}}](#p45)
+}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 \page
 
 
 Aelathar, the Scorched Cradle
-A Campaign Setting for D&D 5E 2024
+to be used with 5th Edition systems
 
 <br>
 <br>
@@ -164,8 +273,26 @@ Mortals, now largely abandoned by their divine patrons and stripped of their est
 
 \page
 
+Peoples of a Scarred World
+The lands of Aelathar, the Scorched Cradle, are trod by peoples both familiar and uniquely forged in its unforgiving crucible. Ages of divine warfare, the cataclysmic Veilshatter, and the relentless struggle for survival under a sun that bakes and a magic that corrupts have left indelible marks upon all who call this blighted world home.
 
-The 10 Core Species of the 2024 PHB in Aelathar:
+<br>
+
+You will find echoes of the so-called "common" folk of other realms here – Humans, Elves, Dwarves, and their kin still draw breath upon Aelathar. Millennia of hardship have not, for the most part, drastically reshaped their fundamental forms; an Elf still bears the grace of their ancient lineage, a Dwarf the sturdy resilience of stone. Yet, to assume their hearts and minds remain untouched by the horrors and wonders of Aelathar would be a grave misjudgment. While their physical nature might mirror those of distant worlds, their cultures, their beliefs, their very behaviors have been warped, hardened, and reforged by generations of strife. The discipline of a Korrathi human, the desperate hope of an Iravar halfling, the arcane obsession of a Zyndralis elf – these are adaptations born of necessity, testaments to the enduring spirit of mortals clinging to existence in a world that actively seeks to unravel them.
+
+<br>
+
+But the cruel environment and the profound, scarring history of Aelathar have done more than just mold the old. The volatile energies of the shattered Veil, the lingering echoes of titanic power, and the sheer, brutal pressure to adapt or perish have, over the long and desperate Age of Scorching, given rise to new players on this desolate stage. These are not mere offshoots or variations, but distinct peoples whose very essence is a product of the Scorched Cradle.
+
+<br>
+
+Among them, you might encounter the Stone-Scales, rare and solitary wanderers bearing the conflicted heritage of Dragonborn might and Goliath endurance, forever caught between the legacies of a shattered sky and slumbering earth. Or perhaps your path will cross that of the Veilkin, humanoids of elven and human-like grace whose forms are an unsettling canvas for the Veil's chaotic artistry, each individual a testament to life's precarious dance with corrupted magic, some even finding a strange resilience or a flicker of hope within their warped existence.
+
+<br>
+
+This chapter delves into the peoples who inhabit Aelathar, exploring how the familiar have been changed by its trials, and introducing those born uniquely of its sorrow and its magic. For in the Scorched Cradle, survival itself is an evolution, and every soul is a story etched in dust and defiance.
+
+\column
 
 Humans:
 
@@ -179,7 +306,26 @@ Cultural Adaptations: Extremely varied. Desert nomads would have traditions focu
 
 Deities: All deities would find human worshippers. Their adaptability means they connect with the full spectrum of divine expression in Aelathar.
 
-\column
+
+<div class="fixed-image-container" style="
+    position: absolute; / Allows precise positioning /
+    top: 710px;         / Desired distance from the top of the page/container /
+    left: 450px;        / Desired distance from the left of the page/container /
+    width: 240px;       / Desired width of the image container /
+    height: auto;      / Desired height of the image container /
+    overflow: hidden;   / Prevents scrollbars on this container and clips content if it overflows /
+    / border: 1px solid red; / / Optional: uncomment to see the div's boundaries for placement /
+    z-index: 100;       / Helps control stacking order if you have overlapping elements /
+  ">
+  <img src="https://i.ibb.co/N2HxzvHq/Humanv2.png" alt="Descriptive text for your image" style="
+      width: 100%;        / Image fills the width of the container /
+      height: 100%;       / Image fills the height of the container /
+      object-fit: contain; / Ensures the whole image is visible, scaled down if necessary. /
+      display: block;     / Removes extra space below the image /
+    ">
+</div>
+
+\page
 
 Elves: 
 High Elves:
@@ -195,12 +341,49 @@ Place in Aelathar: Primarily in and around Iravar and the less corrupted fringes
 
 Cultural Adaptations: Deeply connected to Eryssia, they would be fierce protectors of the remaining natural world. Their survival skills would be unmatched in their chosen territories. They might view arcane magic with deep suspicion, preferring druidic or ranger traditions. Their culture would be one of reverence for life, resilience, and stealth.
 
+
+\column
+
+
+<br>
 <br>
 
 Drow:
 Place in Aelathar: This is where you can be creative! Given the Veilshatter Cataclysm, perhaps some Drow fled the surface world long before, or even during the catastrophe, and established hidden enclaves within the vast, dark caverns of the Cradle Sea. They could also be drawn to the shadows of Zyndralis, operating within its underbelly, or have hidden settlements near the Black Spire, studying its dark energies. Followers of Azryth would fit well.
 
 Cultural Adaptations: If in the Cradle Sea, they might have adapted to aquatic environments or worship deities like Lyria (for her mysteries) or Azryth (for secrets and shadows). In Zyndralis, they might be information brokers, assassins, or cultists delving into forbidden aspects of the Veil, perhaps even trying to harness Veilstorms. Their traditional societal structures might be warped by Aelathar's unique pressures and deities.
+
+<br>
+<br>
+<br>
+
+{{quote
+
+"We remember the taste of pure magic. This... this is its echo, distorted by a scream."
+{{attribution Loremaster Lyra Sunshadow - on magic & memory}}
+}}
+
+
+
+
+<div class="fixed-image-container" style="
+    position: absolute; / Allows precise positioning /
+    top: 600px;         / Desired distance from the top of the page/container /
+    left: 70px;        / Desired distance from the left of the page/container /
+    width: 660px;       / Desired width of the image container /
+    height: auto;      / Desired height of the image container /
+    overflow: hidden;   / Prevents scrollbars on this container and clips content if it overflows /
+    / border: 1px solid red; / / Optional: uncomment to see the div's boundaries for placement /
+    z-index: 100;       / Helps control stacking order if you have overlapping elements /
+  ">
+  <img src="https://i.ibb.co/S7fbkrP7/elvesv2.png" alt="Descriptive text for your image" style="
+      width: 100%;        / Image fills the width of the container /
+      height: 100%;       / Image fills the height of the container /
+      object-fit: contain; / Ensures the whole image is visible, scaled down if necessary. /
+      display: block;     / Removes extra space below the image /
+    ">
+</div>
+
 
 \page
 
@@ -211,7 +394,86 @@ Orrthar (Ashen Peaks): This is their heartland. The volcanic environment, rich m
 Korrath (Foothills of Ashen Peaks/Salt Wastes): Their resilience, love of order, and skill in stonework make them vital to Korrath. They would contribute to its fortifications, arm its soldiers, and mine the bordering mountains, following Saevyr for his law and Kaelgrin for his endurance.
 Cultural Adaptations: Aelatharian dwarves would be even more stoic and pragmatic than usual. Clan loyalty would be paramount for survival. Their craft would focus on durability and function over excessive ornamentation. They'd have deep-seated rituals tied to the stability of the earth (Kaelgrin) and the art of the forge (Orren/Theramach). They might be particularly wary of arcane magic due to its destabilizing effect on the world.
 
+<div class="fixed-image-container" style="
+    position: absolute; / Allows precise positioning /
+    top: 630px;         / Desired distance from the top of the page/container /
+    left: 040px;        / Desired distance from the left of the page/container /
+    width: 350px;       / Desired width of the image container /
+    height: autopx;      / Desired height of the image container /
+    overflow: hidden;   / Prevents scrollbars on this container and clips content if it overflows /
+    / border: 1px solid red; / / Optional: uncomment to see the div's boundaries for placement /
+    z-index: 100;       / Helps control stacking order if you have overlapping elements /
+  ">
+  <img src="https://i.ibb.co/9FW3tN5/halflingv2.png" alt="Descriptive text for your image" style="
+      width: 100%;        / Image fills the width of the container /
+      height: 100%;       / Image fills the height of the container /
+      object-fit: contain; / Ensures the whole image is visible, scaled down if necessary. /
+      display: block;     / Removes extra space below the image /
+    ">
+</div>
+
+\column
+
+<div class="fixed-image-container" style="
+    position: absolute; / Allows precise positioning /
+    top: 100px;         / Desired distance from the top of the page/container /
+    left: 400px;        / Desired distance from the left of the page/container /
+    width: 350px;       / Desired width of the image container /
+    height: auto;      / Desired height of the image container /
+    overflow: hidden;   / Prevents scrollbars on this container and clips content if it overflows /
+    / border: 1px solid red; / / Optional: uncomment to see the div's boundaries for placement /
+    z-index: 100;       / Helps control stacking order if you have overlapping elements /
+  ">
+  <img src="https://i.ibb.co/MxXV362s/dwarfv2.png" alt="Descriptive text for your image" style="
+      width: 100%;        / Image fills the width of the container /
+      height: 100%;       / Image fills the height of the container /
+      object-fit: contain; / Ensures the whole image is visible, scaled down if necessary. /
+      display: block;     / Removes extra space below the image /
+    ">
+</div>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 Halflings:
 
@@ -245,6 +507,7 @@ The Wyrmscorned: This faction views Voryx's act as an unforgivable betrayal, a c
 
 The Unbound: A growing number of younger Dragonborn seek to forge a new identity, free from the direct shadow of the Cataclysm. They argue that the ancient war is over and that their purpose is to survive and thrive in Aelathar as it is, not as it was or should have been. They are pragmatic, often forming mercenary companies, leading trade caravans, or simply trying to build communities that look forward, not back.
 
+\column
 
 Physical Manifestations & Cultural Traits:
 
@@ -262,6 +525,25 @@ Orrthar: The Wyrmscorned and Unbound might find homes here, drawn by Theramach's
 Korrath: Dragonborn valuing order and discipline, regardless of their view on Voryx, might serve Saevyr.
 Nomadic Clans: Many Dragonborn, particularly Unbound or those seeking lost lore, roam the Scorched Cradle and the Ashen Peaks, their clans often distinguished by their specific ancestral dragon (if known) and their interpretation of history.
 
+<div class="fixed-image-container" style="
+    position: absolute; / Allows precise positioning /
+    top: 580px;         / Desired distance from the top of the page/container /
+    left: 410px;        / Desired distance from the left of the page/container /
+    width: 330px;       / Desired width of the image container /
+    height: auto;      / Desired height of the image container /
+    overflow: hidden;   / Prevents scrollbars on this container and clips content if it overflows /
+    / border: 1px solid red; / / Optional: uncomment to see the div's boundaries for placement /
+    z-index: 100;       / Helps control stacking order if you have overlapping elements /
+  ">
+  <img src="https://i.ibb.co/23hm6pfg/Dragonbornv2.png.png" alt="Descriptive text for your image" style="
+      width: 100%;        / Image fills the width of the container /
+      height: 100%;       / Image fills the height of the container /
+      object-fit: contain; / Ensures the whole image is visible, scaled down if necessary. /
+      display: block;     / Removes extra space below the image /
+    ">
+</div>
+
+
 \page
 
 Gnomes:
@@ -269,11 +551,156 @@ Gnomes:
 Place in Aelathar:
 Orrthar (Rock Gnomes): Their inventive genius would be highly prized here. They'd work alongside dwarves, focusing on intricate mechanisms, geothermal power systems, or perhaps unique alchemical solutions for survival. Followers of Orren or even Theramach (for the innovative spark).
 Zyndralis (Forest Gnomes/Arcane Gnomes): Their natural curiosity and potential for illusion or subtle magic would draw them to the study of the Veil or Nyraea's secrets. Some might become reclusive scholars or clever tinkerers operating in the city's less obvious corners. Lunaria could also be a patron.
+\column
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 Hidden Enclaves: Gnomes might create small, cleverly hidden communities, perhaps in stable cave systems or camouflaged warrens, using their ingenuity to create self-sufficient, defensible homes.
 
 Cultural Adaptations: Aelatharian gnomes would channel their curiosity and inventiveness towards survival and understanding their perilous world. They might be more cautious than their counterparts in other settings but would retain their spark of creativity. Their humor might be dry and geared towards the absurdities of their existence.
 
 <br>
+
+<div class="fixed-image-container" style="
+    position: absolute; / Allows precise positioning /
+    top: 590px;         / Desired distance from the top of the page/container /
+    left: 450px;        / Desired distance from the left of the page/container /
+    width: 260px;       / Desired width of the image container /
+    height: auto;      / Desired height of the image container /
+    overflow: hidden;   / Prevents scrollbars on this container and clips content if it overflows /
+    / border: 1px solid red; / / Optional: uncomment to see the div's boundaries for placement /
+    z-index: 100;       / Helps control stacking order if you have overlapping elements /
+  ">
+  <img src="https://i.ibb.co/fdRf1j38/gnomev2.png" alt="Descriptive text for your image" style="
+      width: 100%;        / Image fills the width of the container /
+      height: 100%;       / Image fills the height of the container /
+      object-fit: contain; / Ensures the whole image is visible, scaled down if necessary. /
+      display: block;     / Removes extra space below the image /
+    ">
+</div>
+
+<br>
+
+{{wide
+{{note
+The Ballad of the Broken Weave
+
+*(A Gnomish Retelling of the Veilshatter)*
+
+The world was once a clockwork true, each cog and gear in place,
+
+The Veil, a finely woven loom, that shimmered, full of grace.
+
+It kept the Outer Ruckus out, the Inner Order neat,
+
+A balance struck by careful hands, a harmony complete.
+
+(So the oldest clickings tell, a whisper on the breeze.)
+
+<br>
+
+Then Titan-might began to chafe, at Dragon-thought so grand,
+
+"Our making must be free!" they roared, across the verdant land.
+
+The Dragons, with their scales of sky, said, "Order must hold sway,
+
+Or else this perfect, grand design will surely fray away."
+
+(A pressure gauge, some say, began to slowly rise.)
+
+<br>
+
+Old Voryx, wisest of his kind, or so the legends croon,
+
+Devised a plan, a fearsome spell, beneath a watchful moon.
+
+To seal the Heart, where chaos brewed, a power too immense,
+
+But Theramach, the Everflame, took terrible offense!
+
+(A crack in the mainspring, a tremor in the scheme.)
+
+
+<br>
+
+The War of Sundering commenced, a clashing, grim display,
+
+Where mountains fell and rivers boiled, and skies turned ashen grey.
+
+For centuries, the gears did grind, as titan fought the wyrm,
+
+While mortal folk, like frightened ants, endured the endless storm.
+
+(Fragmented blueprints show the damage spreading wide.)
+
+
+<br>
+
+At last, upon the Heart's scarred face, the final meeting set,
+
+Voryx unleashed the Veilrend grand, a choice he'd soon regret.
+
+A magic to unmake the bounds, to banish raw despair,
+
+But oh, the cosmic spindle snapped! The world was torn right there!
+
+(The Great Unraveling, a sound that shattered stars.)
+
+<br>
+
+The Heart of Creation burst apart, like a geode struck with spite,
+
+And through the wound, the Outer Dark spewed forth its dreadful light.
+
+The Veil, that once-so-perfect screen, was shredded, rent, and torn,
+
+And Aelathar, our vibrant world, was blighted and forlorn.
+
+(A thousand broken threads, no weaver could repair.)
+
+<br>
+
+Now dust and sorrow fill the air, the magic runs untrue,
+
+A shimmer in the Shifting Sands, a sickly, baleful hue.
+
+The Veilstorms howl their mournful songs, of what was and is lost,
+
+And every spell, a gamble now, that counts a bitter cost.
+
+(We measure out the risk, with instruments precise.)
+
+<br>
+
+So listen close, ye youngling gnomes, to tales of when it broke,
+
+Remember how the perfect plan by grand ambition spoke.
+
+We tinker still, with cog and spring, in this scorched, dusty land,
+
+And watch the Veil, its tattered edge, with ever-steady hand.
+
+(Perhaps one day a gear, a lever, might be mended. Perhaps.)
+}}
+
+
+}}
+
+
+
+
+
+
+
+
+
+
+\page
 
 Goliaths:
 *Children of Slumbering Earth and Raging Fire*
@@ -296,10 +723,12 @@ Kaelgrin's Stoneguard: Many Goliath tribes, particularly those dwelling in the h
 
 Theramach's Forgestruck: Goliath tribes found closer to the volcanic hearts of the Ashen Peaks, or those who have integrated more into Orrthar, often feel a stronger kinship with Theramach the Everflame. They embrace passion, righteous fury (if their lands or kin are threatened), and the transformative power of fire. These Goliaths are often more dynamic and expressive than their Stoneguard cousins, excelling as powerful warriors, smiths who work the volcanic forges, or even fire-touched shamans. Their Giant Ancestry might be linked to Fire Giants.
 
-The Unaligned Peaks: Some Goliath tribes may not align specifically with Kaelgrin or Theramach, but rather with the broader concept of the untamed elemental forces of the mountains, perhaps incorporating aspects of Vorath (if near storm-lashed peaks) or even minor elemental spirits. Their chosen Giant Ancestry (Storm, Frost, Hill, Cloud) would heavily influence their specific adaptations and beliefs. For example, Frost Giant descendants might inhabit the coldest, highest peaks of the Ashen range, while Storm Giant descendants might be drawn to areas with frequent electrical storms or high winds.
-Cultural Markers & The Veil:
 
-<br>
+The Unaligned Peaks: Some Goliath tribes may not align specifically with Kaelgrin or Theramach, but rather with the broader concept of the untamed elemental forces of the mountains, perhaps incorporating aspects of Vorath (if near storm-lashed peaks) or even minor elemental spirits. Their chosen Giant Ancestry (Storm, Frost, Hill, Cloud) would heavily influence their specific adaptations and beliefs. For example, Frost Giant descendants might inhabit the coldest, highest peaks of the Ashen range, while Storm Giant descendants might be drawn to areas with frequent electrical storms or high winds.
+
+\column
+
+Cultural Markers & The Veil:
 
 Goliath tribes often mark their skin with ritualistic scars or mineral-based paints that signify their lineage, deeds, and connection to specific elemental forces or mountain spirits.
 
@@ -309,11 +738,31 @@ They view arcane Veil magic with deep suspicion, seeing it as the force that tor
 The "Heart of Creation's Echo" (Theramach's artifact, if found) or "Kaelgrin's Resonant Core" 
 would be relics of immense significance, capable of uniting or dividing Goliath tribes.
 
+<br>
+
 Place in Aelathar:
 
 Ashen Peaks: This is their undisputed domain. Different tribes, based on their elemental kinship and chosen Titan-patron, would inhabit various sectors of the mountain range.
 Orrthar: Forgestruck Goliaths would be a powerful presence here, contributing their strength to industry and defense. Tensions might exist with Kaelgrin's Stoneguard Goliaths who view Orrthar's extensive mining with concern.
 Remote Mountain Ranges: Smaller, isolated Goliath tribes might exist in any significant mountain range that survived the Cataclysm, each with unique adaptations.
+
+<div class="fixed-image-container" style="
+    position: absolute; / Allows precise positioning /
+    top: 630px;         / Desired distance from the top of the page/container /
+    left: 410px;        / Desired distance from the left of the page/container /
+    width: 360px;       / Desired width of the image container /
+    height: autopx;      / Desired height of the image container /
+    overflow: hidden;   / Prevents scrollbars on this container and clips content if it overflows /
+    / border: 1px solid red; / / Optional: uncomment to see the div's boundaries for placement /
+    z-index: 100;       / Helps control stacking order if you have overlapping elements /
+  ">
+  <img src="https://i.ibb.co/3yDGhrbt/Goliathv2.png" alt="Descriptive text for your image" style="
+      width: 100%;        / Image fills the width of the container /
+      height: 100%;       / Image fills the height of the container /
+      object-fit: contain; / Ensures the whole image is visible, scaled down if necessary. /
+      display: block;     / Removes extra space below the image /
+    ">
+</div>
 
 \page
 
@@ -328,6 +777,24 @@ Orrthar/Korrath (Integrated): Individual orcs or smaller groups might find a pla
 
 Cultural Adaptations: Aelatharian orcs would be supremely adapted to hardship. Their societies would likely be tribal, with a strong emphasis on martial prowess and the ability to survive. They might have unique traditions for dealing with the corrupted magic or mutated creatures of their territories. Their relationship with the divine would be pragmatic, favoring gods who offer tangible power or reflect their fierce independence.
 
+<div class="fixed-image-container" style="
+    position: absolute; / Allows precise positioning /
+    top: 650px;         / Desired distance from the top of the page/container /
+    left: 50px;        / Desired distance from the left of the page/container /
+    width: 330px;       / Desired width of the image container /
+    height: auto;      / Desired height of the image container /
+    overflow: hidden;   / Prevents scrollbars on this container and clips content if it overflows /
+    / border: 1px solid red; / / Optional: uncomment to see the div's boundaries for placement /
+    z-index: 100;       / Helps control stacking order if you have overlapping elements /
+  ">
+  <img src="https://i.ibb.co/0jr9HsGb/orcv2.png" alt="Descriptive text for your image" style="
+      width: 100%;        / Image fills the width of the container /
+      height: 100%;       / Image fills the height of the container /
+      object-fit: contain; / Ensures the whole image is visible, scaled down if necessary. /
+      display: block;     / Removes extra space below the image /
+    ">
+</div>
+
 <br>
 \column
 
@@ -340,6 +807,23 @@ Scattered & Secretive: Many tieflings might live on the fringes, in isolated com
 
 Cultural Adaptations: Tiefling culture in Aelathar would be shaped by how they are perceived and how they perceive themselves in relation to the Veil and the Cataclysm. Some might embrace their fiendish heritage as a source of strength in a harsh world, others might seek to understand or purify it. Their chosen fiendish legacy (Abyssal, Chthonic, Infernal) would significantly influence their abilities and perhaps their cultural leanings or choice of patron deity (Azryth, Theramach, or perhaps even Voryx if seeking control). They would likely be adept at navigating suspicion and making their own way.
 
+<div class="fixed-image-container" style="
+    position: absolute; / Allows precise positioning /
+    top: 580px;         / Desired distance from the top of the page/container /
+    left: 410px;        / Desired distance from the left of the page/container /
+    width: 300px;       / Desired width of the image container /
+    height: auto;      / Desired height of the image container /
+    overflow: hidden;   / Prevents scrollbars on this container and clips content if it overflows /
+    / border: 1px solid red; / / Optional: uncomment to see the div's boundaries for placement /
+    z-index: 100;       / Helps control stacking order if you have overlapping elements /
+  ">
+  <img src="https://i.ibb.co/RThPYkNJ/Tieflingv2.png" alt="Descriptive text for your image" style="
+      width: 100%;        / Image fills the width of the container /
+      height: 100%;       / Image fills the height of the container /
+      object-fit: contain; / Ensures the whole image is visible, scaled down if necessary. /
+      display: block;     / Removes extra space below the image /
+    ">
+</div>
 \page
 
 Aasimar:
@@ -352,17 +836,75 @@ Isolated Individuals: Many aasimar might be solitary figures, guided by divine v
 Cultural Adaptations: Aasimar in Aelathar would likely feel the weight of the world's suffering intensely. Their celestial heritage might manifest as a beacon of hope, a source of inner turmoil, or a driving force for justice or healing. They would be figures of awe, suspicion, or veneration. Their choice of Celestial Revelation (as per the 2024 rules – Necrotic Shroud, Radiant Soul, Radiant Consumption, or the new options) would dramatically shape their role and how they interact with the world's prevailing despair or faint hopes. Deities like Eryssia, Kaelarion, Voryx (for understanding sacrifice), or even a reformed vision of Saevyr (justice and protection) would be likely patrons.
 <br>
 
-
+<div class="fixed-image-container" style="
+    position: absolute; / Allows precise positioning /
+    top: 650px;         / Desired distance from the top of the page/container /
+    left: 070px;        / Desired distance from the left of the page/container /
+    width: 320px;       / Desired width of the image container /
+    height: auto;      / Desired height of the image container /
+    overflow: hidden;   / Prevents scrollbars on this container and clips content if it overflows /
+    / border: 1px solid red; / / Optional: uncomment to see the div's boundaries for placement /
+    z-index: 100;       / Helps control stacking order if you have overlapping elements /
+  ">
+  <img src="https://i.ibb.co/sdmjkZ1B/Aasimarv2.png" alt="Descriptive text for your image" style="
+      width: 100%;        / Image fills the width of the container /
+      height: 100%;       / Image fills the height of the container /
+      object-fit: contain; / Ensures the whole image is visible, scaled down if necessary. /
+      display: block;     / Removes extra space below the image /
+    ">
+</div>
 
 \page
 
-Magic in Aelathar
+Magic in Aelathar – A Corrupted Gift
+Magic in Aelathar is the lifeblood of its desperate survivors and the echo of its catastrophic past. It is a force that can mend a wound, coax a flicker of light in the oppressive darkness, or raise a barrier against the horrors of the wastes. Yet, every shimmer of power, every incantation whispered on the dust-choked wind, carries with it the indelible taint of the Veilshatter Cataclysm. The Veil, the very fabric separating realities, was not merely torn but fundamentally corrupted, and all magic that flows through or from it bears this scar. To wield magic in the Scorched Cradle is to dance on a razor's edge, balancing need against peril, power against an insidious, creeping decay.
 
-The Veil: Nature and Instability
+This perilous nature has profoundly shaped the landscape of spellcasting in Aelathar. True arcane practitioners—those who seek to master the raw stuff of magic, bending the fundamental energies of the cosmos to their will, such as Wizards with their intricate formulae and Sorcerers with their innate, volatile power—are a rare and often wary breed. 
 
-In Aelathar, all magic is deeply intertwined with the Veil, the now-thin and fractured barrier between the material plane and the unstable, raw chaos unleashed during the divine war. Every casting of an arcane spell directly draws upon and strains this delicate membrane, risking further destabilization not only for the immediate environment but also for the caster's own being. The Veil is visibly thinner in some places, like the Shimmering Sands or near the Black Spire, leading to more frequent magical phenomena and greater risk for casters.
+To draw directly from the chaotic, unstable Veil is to invite its corruption. Each potent spell cast by these dedicated arcane scholars and conduits risks not only immediate, violent backlash but also a slow, creeping transformation known as Crystallization, a physical manifestation of the Veil's chaotic essence taking root in mortal flesh. Consequently, the great academies of magic are few, their traditions steeped in caution as much as knowledge, and their numbers are a fraction of what they might be in healthier worlds.
 
 \column
+
+Curiously, an enduring enigma for Aelathar's scholars of the arcane is why this direct backlash seems primarily to afflict those who delve deepest into the fundamental manipulation of raw magical energies. 
+
+Other traditions that touch upon the arcane weave—the subtle enchantments of a Bard's song, the nature-infused spells of a Ranger, or the combat-laced cantrips of an Eldritch Knight or Arcane Trickster—appear to largely bypass these dire consequences. 
+
+Lore passed down through generations, and debated heatedly in Zyndralis, posits several theories: perhaps their magic is more 'pattern-based,' drawing upon established, less volatile currents rather than the raw, churning chaos of the deep Veil. Others suggest the volume and intensity of power directly channeled by Wizards and Sorcerers is what attracts the Veil’s corrupting gaze, like a bright flame drawing moths. 
+
+Whatever the truth, these other practitioners find their arcane talents functioning with a degree of stability that dedicated mages can only envy, though even they are not entirely immune to the ambient dangers of a Veilstorm or a severely thinned Veil.
+
+<div class="fixed-image-container" style="
+    position: absolute; / Allows precise positioning /
+    top: 660px;         / Desired distance from the top of the page/container /
+    left: 20px;        / Desired distance from the left of the page/container /
+    width: 750px;       / Desired width of the image container /
+    height: AUTO;      / Desired height of the image container /
+    overflow: hidden;   / Prevents scrollbars on this container and clips content if it overflows /
+    / border: 1px solid red; / / Optional: uncomment to see the div's boundaries for placement /
+    z-index: 100;       / Helps control stacking order if you have overlapping elements /
+  ">
+  <img src="https://i.ibb.co/bMn3Vq8Y/Epic-dark-fantasy-digital-painting-of-a-lone-Aelatharian-High-Elf-magician-female-with-long-wind-whi.jpg" alt="Descriptive text for your image" style="
+      width: 100%;        / Image fills the width of the container /
+      height: 100%;       / Image fills the height of the container /
+      object-fit: contain; / Ensures the whole image is visible, scaled down if necessary. /
+      display: block;     / Removes extra space below the image /
+    ">
+</div>
+
+\page
+
+Given these dangers, it is no surprise that divine magic is the most prevalent and trusted form of spellcasting across the Scorched Cradle. Those who draw their power from the deities of Aelathar—be they the stern Justicars of Saevyr, the life-tending Verdant Hands of Eryssia, or the knowledge-seeking Shardbound of Voryx—find their magic filtered and mediated. The gods, in their wisdom, sorrow, or perhaps even their own diminished capacity, act as intermediaries, buffering their faithful from the worst of the Veil’s raw, untamed power. While the prayers of a cleric or the oath of a paladin can still falter in places where divine influence wanes or the Veil screams too loudly, they do not carry the same insidious personal cost as the direct manipulation of arcane forces.
+
+Druidic traditions, practitioners of the primal magic of the natural world, are a dwindling light in Aelathar. The widespread desolation of the land offers little for their ancient rites to take root in. They are figures of resilience and deep sorrow, clinging to the few pockets of Aelathar where life, however twisted or tenacious, still endures. The Verdant Heart of Iravar in the Veiljungles, hidden oases nurtured by Eryssia's grace, or remote, untouched canyons in the Ashen Peaks are their sanctuaries. Here, they strive to understand the corrupted patterns of Aelathar's nature, to heal what little they can, and to act as staunch guardians against further despoilment. Their numbers are few, their task immense, and their magic a poignant reminder of all that was lost.
+
+Yet, amidst the pervasive dread and the daily struggle, faint whispers of change regarding the Veil itself have begun to circulate among those who study its patterns. Historical records meticulously kept in Zyndralis, and the oral traditions passed down by desert nomads who have weathered generations of its fury, suggest a subtle shift. Over the last few centuries, it is believed by many that the terrifying Veilstorms—those localized tears in reality that unleash raw chaos—have been gradually, almost imperceptibly, lessening in both their raw destructive strength and their overall frequency.
+
+This observation is a source of both fervent hope and deep unease. Some scholars and mystics theorize that this indicates a slow, natural mending of the Veil, a sign that Aelathar itself is attempting to heal its deepest wound. Others fear this is merely a lull in a far grander, more terrifying cycle, a cosmic breath drawn before an even greater unraveling. And still others whisper that the subtle interventions of deities like Nyraea, the Veilweaver, are responsible, her silent, unseen efforts patching the most grievous tears. The truth remains elusive, another of Aelathar’s many grim mysteries, but the debate itself shapes the anxieties and ambitions of those who live under its scarred sky.
+
+This chapter will delve into the specifics of how these different forms of magic function in Aelathar, the unique perils faced by arcane casters, the boons granted by the divine, the resilience of druidic practices, and the ever-present influence of the fractured, sorrowful Veil. For to understand magic in Aelathar is to understand the very soul of the Scorched Cradle.
+
+
+\page
 
 Arcane Magic: The Double-Edged Sword
 
@@ -1179,183 +1721,351 @@ Drawbacks: The wearer's mind is constantly exposed to the horrors and chaos of t
 
 \page
 
+Denizens of a Shattered World—The Bestiary of Aelathar
+To the unwary traveler, every shadow in the Scorched Cradle may conceal a waiting doom, every whisper on the wind might be the sigh of something ancient and malevolent. The creatures of Aelathar are not mere beasts; they are living, breathing testaments to a world irrevocably broken and perpetually struggling for a semblance of existence. They are the children of desolation, the avatars of corrupted magic, and the echoes of a divine war that tore reality asunder.
 
-I. Inhabitants of Aelathar
-Playable Races & Cultures:
+<br>
 
-How have the standard D&D races (elves, dwarves, halflings, humans, etc.) adapted to the harsh realities of Aelathar? Do they have unique subraces or cultural variants specific to regions like the Ashen Peaks  or the Veiljungles?   
+In these pages, you will find a panoply of entities that roam the sun-baked wastes, haunt the volcanic peaks, stalk the razor-sharp plains of glass, and fester within the magically saturated Veiljungles. Many are creatures that, in other, healthier worlds, might have been familiar parts of the natural order. Here, however, they are twisted by generations of exposure to the raw, untamed energies of the fractured Veil. Their forms are often warped, their instincts sharpened by unending scarcity, and their very essence imbued with the chaotic magic that now chokes Aelathar. You will encounter beings born directly of Veil-tears, ephemeral horrors that embody the madness of the outer void, and monstrosities whose flesh has begun the terrible process of Crystallization, becoming living shards of dangerous magic.
 
-Are there any new, unique playable races born from the Veilshatter Cataclysm, perhaps touched by Veil energy  or descended from survivors of ancient, lost civilizations?   
-How do societal views on specific races differ, especially those who might be more or less susceptible or tied to Veil magic?   
+<br>
 
+Others are relics of a bygone age, remnants of the titanic struggles between Celestial Dragons and Elemental Titans, or guardians of ruins that whisper of the Verdant Harmony that was lost. Slumbering things stir beneath the sands, and ancient sentinels, their purpose long forgotten, still patrol forgotten tombs.
 
-Bestiary - Creatures of the Scorched Cradle:
+<br>
 
-While you allude to "salt-encrusted monstrosities", "mutated flora that glows with eerie light, fauna with extra limbs or unsettling intelligence" in the Veiljungles, and creatures in the Cradle Sea, a dedicated bestiary would be invaluable.   
+As Dungeon Master, the creatures detailed herein are more than mere adversaries. They are the embodiment of Aelathar's perils. Use them to challenge your players' courage and resourcefulness, to deepen the mystery of the world's past, and to underscore the constant, pressing threat of survival in the Scorched Cradle. Each encounter should serve as a reminder that Aelathar is a land that demands resilience, offers little comfort, and often rewards curiosity with a glimpse into the abyss.
 
-What unique monsters are forged by the corrupted magic of the Veil  or the extreme environments like the Glass Expanse  or Shimmering Sands?   
-
-Are there specific stat blocks or lore for "Veilshards" (the crystallized NPCs)  or remnants of the celestial dragon  or elemental titan  conflict?  
-
-
-II. Daily Life & Societal Fabric
-Economy, Trade, and Currency:
-
-What is the standard currency, if any? How does barter work in a resource-scarce world?   
-Beyond basic survival needs, what goods are considered valuable? How do the Trade Guilds & Caravan Alliances  manage routes through such dangerous lands?   
-
-Is there more detail on the "unique obsidian mined directly from the Spire itself"  and its role in the economy beyond Zyndralis?   
-
-
-Languages, Timekeeping, and Culture:
-
-Is there a common tongue? What ancient, regional, or faction-specific languages exist (e.g., the whispers of Voryx  or the speech of slumbering titans )?   
-
-How is time tracked? Is there a specific calendar for Aelathar? Do the unusual celestial phenomena or Veilstorms  impact this?   
-
-What are common artistic expressions, forms of entertainment, or social customs in the different cities like Korrath, Iravar, Orrthar, and Zyndralis?   
-
-Food and Drink: In a land so harsh, what unique flora and fauna are used for sustenance? How is water sourced and preserved beyond the Canteen of Purified Water?  
-
-III. Player Character Options
-Setting-Specific Archetypes:
-Consider creating new subclasses reflecting Aelathar's unique challenges and powers. 
-
-Examples:
-A Sorcerous Origin tied to Veil magic or the Cataclysm.
-A Cleric Domain for the unique deities like Nyraea (Veilweaving/Fate)  or a more focused aspect of Kaelgrin (Endurance/Decay).   
-
-A Ranger Archetype adapted to surviving specific harsh terrains like the Salt Wastes  or the Ashen Peaks.   
-
-A Warlock Patron based on a slumbering Titan, a fragment of the Veil, or even a lesser entity from the void.
-
-Custom Backgrounds & Feats:
-Backgrounds like "Scorched Cradle Survivor," "Veilwarden Initiate," "Obsidian Spire Scholar," or "Salt Waste Nomad" could provide rich roleplaying hooks.
-Setting-specific feats related to Veil magic resistance/mastery, desert survival, or cultural ties to specific cities or factions.
-
-IV. For the Dungeon Master
-Expanded Regional Details & Maps:
-
-While the overview map  is great, more detailed maps of each major city, key landmark (like the Black Spire  or the Cradle Sea cave systems ), or even regional hex maps would greatly aid exploration-focused campaigns.   
-NPCs & Adventure Locales:
-
-More named NPCs with detailed backstories, motivations, and potential stat blocks. Who are the key figures in the Iron Council of Korrath, the Verdant Conclave of Iravar, the Pyric Assembly of Orrthar, or the Council of the Obsidian Circle in Zyndralis?   
-Develop some of the adventure hooks  into more fleshed-out adventure sites or mini-dungeons with potential encounters and treasures.   
-Deeper Cosmological Questions:
-
-While the Veil  and the chaotic void beyond are central, you could explore: What are the "celestial dragons"  and "elemental titans"  more specifically? Are there other planes accessible, however difficult? What is the nature of the "outer void"  beyond simply being chaos?   
-The "Current Day" Pulse:
-
-While the history is rich, what are the most pressing current events or looming threats that would immediately engage player characters? Is there a specific year or era the setting assumes for a campaign start?   
-Technology Level:
-
-Beyond magic, you mention engineering in Orrthar  and smithing. What is the general technological level? Is it mostly medieval, or are there unique Aelatharian inventions or lost technologies?   
+Tread carefully, for the denizens of this shattered world are as desperate, as dangerous, and as deeply scarred as the land itself.
 
 
 \page
 
+Veil Grub Swarm
+A faint, sickly sweet smell and a low, chittering hum often precede the appearance of a Veil Grub Swarm. These creatures are not born in any natural sense but coalesce from organic detritus and raw Veil energy in places where the barrier between realities is particularly thin and fetid. Individually, a Veil Grub is barely a threat, a thumb-sized, pulsating larva that shimmers with faint, unnatural colors. In a swarm, however, their collective hunger and the chaotic energy they exude can overwhelm the unwary.
+
+VEIL GRUB SWARM
+Medium swarm of Tiny aberrations, Unaligned
+
+Armor Class 12 (natural armor)
+Hit Points 27 (6d8)
+Speed 20 ft., burrow 10 ft.
+
+STR	DEX	CON	INT	WIS	CHA
+6 (-2)	13 (+1)	10 (+0)	1 (-5)	7 (-2)	2 (-4)
+
+Damage Resistances Bludgeoning, Piercing, Slashing
+Condition Immunities Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+Senses Darkvision 60 ft., Tremorsense 30 ft., Passive Perception 8
+Languages —
+Challenge 1/2 (100 XP)
+Proficiency Bonus +2
+
+Swarm. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny grub. The swarm can't regain hit points or gain temporary hit points.
+
+Veil Sickness Aura. Any creature that starts its turn in the swarm's space must succeed on a DC 10 Constitution saving throw or be afflicted by a mild, unsettling nausea. While afflicted, the creature has disadvantage on Wisdom (Perception) checks that rely on sight or smell and cannot take reactions. This effect lasts until the start of the creature's next turn.
+
+ACTIONS
+Bites. Melee Weapon Attack: +3 to hit, reach 0 ft., one creature in the swarm's space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. If the target is a creature, it must succeed on a DC 10 Constitution saving throw or take an additional 2 (1d4) psychic damage from the disorienting touch of Veil energy.
+
+\column
+
+Veil-Twisted Mauler
+The howl of a Veil-Twisted Mauler is a chilling sound, less an animalistic cry and more a discordant shriek that seems to bend the air around it. These once-natural desert predators—perhaps large wolves, hyenas, or some other pack hunter native to Aelathar's less blighted past—have been irrevocably warped by prolonged exposure to Veil energies, often from hunting too close to the Shimmering Sands or lairing near unstable rifts. Their forms are a horrifying parody of their original shapes, with limbs of unequal length, patches of raw, shimmering flesh, and bony spurs or crystalline growths jutting out at unnatural angles. They hunt with a terrifying blend of animal cunning and chaotic unpredictability.
 
 <br>
 
+VEIL-TWISTED MAULER
+Large monstrosity, Chaotic Evil
+
+Armor Class 14 (natural armor)
+Hit Points 75 (10d10+20)
+Speed 50 ft.
+
+STR	DEX	CON	INT	WIS	CHA
+17 (+3)	15 (+2)	14 (+2)	6 (-2)	13 (+1)	7 (-2)
+
+Skills Perception +3, Stealth +4
+Senses Darkvision 60 ft., Passive Perception 13
+Languages Understands Common but cannot speak
+Challenge 4 (1,100 XP)
+Proficiency Bonus +2
+
+Unstable Form. The Mauler is wreathed in faint, shimmering chaotic energy. Attack rolls against it have disadvantage unless the attacker is within 5 feet of the Mauler. Additionally, any creature that touches the Mauler or hits it with a melee attack while within 5 feet of it takes 3 (1d6) psychic damage.
+
+Pack Tactics. The Mauler has advantage on an attack roll against a creature if at least one of the Mauler's allies is within 5 feet of the creature and the ally isn't incapacitated.
+
+ACTIONS
+Multiattack. The Mauler makes two attacks: one with its Warped Bite and one with its Crystalline Claw.
+
+Warped Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6+3) piercing damage. If the target is a creature, it must succeed on a DC 12 Wisdom saving throw or become frightened of the Mauler until the end of its next turn due to the bite's disorienting psychic impact.
+
+Crystalline Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10+3) slashing damage, and the target must succeed on a DC 12 Constitution saving throw or have its speed halved until the end of its next turn as jagged, microscopic crystals temporarily impede its movement.
+
+Veil Jaunt (Recharge 5–6). The Mauler momentarily tears the Veil, teleporting up to 30 feet to an unoccupied space it can see. Each creature within 5 feet of the space it left and each creature within 5 feet of the space it appears in must succeed on a DC 12 Dexterity saving throw or take 7 (2d6) force damage as reality briefly distorts.
+
+\page
+
+Shard-Heart Desolator
+
+Legends among wastelanders speak of the Shard-Heart Desolators with hushed terror, describing them as living Veilstorms given monstrous form. These colossal beings are the horrifying culmination of intense and prolonged Veil saturation, where a powerful creature or even a potent nexus of Veil energy itself achieves a terrifying, mobile sentience. Its body is a shifting mass of razor-sharp, Veil-infused crystals—often of obsidian, sickly amethyst, and other unsettling hues—that hum with immense, unstable power. Light refracts strangely through its form, and the air around it crackles with raw chaos. The "heart" of the Desolator is said to be a massive, pulsating Veilshard that draws in ambient magic and life force to sustain its destructive existence. It is less a creature of flesh and blood and more a sentient catastrophe, its passage leaving behind only scoured land and crystalline echoes of its victims.
+
+<br>
+
+SHARD-HEART DESOLATOR
+Huge aberration, Chaotic Neutral (driven by instinct and the Veil's hunger)
+
+Armor Class 17 (natural crystalline armor)
+Hit Points 184 (16d12+80)
+Speed 30 ft., burrow 20 ft. (can move through stone and crystal as if it were loose earth)
+
+STR	DEX	CON	INT	WIS	CHA
+22 (+6)	8 (-1)	20 (+5)	10 (+0)	14 (+2)	16 (+3)
+
+Saving Throws Con +9, Wis +6
+Damage Resistances Piercing, Slashing from nonmagical attacks
+Damage Immunities Poison, Psychic
+Condition Immunities Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+Senses Darkvision 120 ft. (sees through magical and nonmagical darkness), Blindsight 60 ft. (can perceive Veil energy currents), Passive Perception 12
+Languages Understands Primordial and telepathy 120 ft. (transmits images of chaos and hunger)
+Challenge 11 (7,200 XP)
+Proficiency Bonus +4
+
+Legendary Resistance (3/Day). If the Desolator fails a saving throw, it can choose to succeed instead.
+
+Aura of Dissonance. The area within 30 feet of the Desolator is warped by chaotic Veil energy. Any creature that starts its turn in this aura has its speed halved until the start of its next turn, and spell Ranged Attack rolls made by creatures in the aura have disadvantage. Furthermore, when a creature casts a spell of 1st level or higher within the aura, it must roll a d20. On a 1, the spell fails, has no effect, and the caster must roll on Aelathar's Veil Corruption Table.
+
+Crystalline Regeneration. The Desolator regains 10 hit points at the start of its turn if it has at least 1 hit point. If the Desolator takes radiant damage, this trait doesn't function at the start of its next turn.
+
+Magic Weapons. The Desolator's weapon attacks are magical.
+
+ACTIONS
+Multiattack. The Desolator makes two Shard Slam attacks.
+
+Shard Slam. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 19 (3d8+6) slashing damage plus 7 (2d6) force damage. If the target is a creature, it must succeed on a DC 17 Constitution saving throw or gain 1 Crystallization Point (as per Aelathar's long-term magic effects).
+
+Veil Rupture (Recharge 5–6). The Desolator unleashes a blast of raw chaotic energy from its core in a 60-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 45 (10d8) force damage on a failed save, or half as much damage on a successful one. A creature that fails its save by 5 or more is also stunned until the end of its next turn.
+
+Summon Veil Echoes (1/Day). The Desolator summons 1d4 Veil-Twisted Maulers or 2d6 Veil Grub Swarms. Summoned creatures appear in unoccupied spaces within 60 feet of the Desolator and act as its allies. They remain for 1 hour, until the Desolator dies, or until the Desolator dismisses them as a bonus action.
+
+LEGENDARY ACTIONS
+The Desolator can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The Desolator regains spent legendary actions at the start of its turn.
+
+Slam. The Desolator makes one Shard Slam attack.
+Crystalline Shards (Costs 2 Actions). The Desolator launches a volley of razor-sharp crystals. Each creature of the Desolator's choice within 30 feet of it must make a DC 17 Dexterity saving throw, taking 13 (3d8) piercing damage on a failed save, or half as much on a successful one.
+Consume Magic (Costs 3 Actions). The Desolator targets one creature it can see within 60 feet that is concentrating on a spell. The target must succeed on a DC 17 Wisdom saving throw or its concentration is broken, and the Desolator regains hit points equal to twice the level of the spell that was being concentrated on.
+
+These should provide some uniquely Aelatharian threats for your players to encounter, directly tied to the corrupted magic and perilous nature of the Veil!
+
+
+\page
+
+Shifting Mote
+
+These curious and often unsettling apparitions are common in areas where the Veil is particularly thin or recently agitated, such as the Shimmering Sands or in the wake of a Veilstorm. A Shifting Mote appears as a roughly spherical conglomeration of dust, sand, and faintly glowing, multi-hued particles of raw Veil energy, no larger than a human head. They drift aimlessly, drawn to strong emotions or displays of magic. While not truly sentient in a way most understand, they react to their surroundings, and their touch can be disorienting and strangely chilling.
+
+<div class="fixed-image-container" style="
+    position: absolute; / Allows precise positioning /
+    top: 600px;         / Desired distance from the top of the page/container /
+    left: 150px;        / Desired distance from the left of the page/container /
+    width: 450px;       / Desired width of the image container /
+    height: auto;      / Desired height of the image container /
+    overflow: hidden;   / Prevents scrollbars on this container and clips content if it overflows /
+    / border: 1px solid red; / / Optional: uncomment to see the div's boundaries for placement /
+    z-index: 100;       / Helps control stacking order if you have overlapping elements /
+  ">
+  <img src="https://i.ibb.co/8gwSXPHk/Shifting-Mote.png" alt="Descriptive text for your image" style="
+      width: 100%;        / Image fills the width of the container /
+      height: 100%;       / Image fills the height of the container /
+      object-fit: contain; / Ensures the whole image is visible, scaled down if necessary. /
+      display: block;     / Removes extra space below the image /
+    ">
+</div>
+
+\column
+
+
+{{monster,frame
+SHIFTING MOTE
+Tiny aberration, Unaligned
+
+Armor Class :: 13
+Hit Points  :: 10 (3d4+3)
+Speed       :: Speed 0 ft., fly 30 ft. (hover)
+
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|1  (-5)|16 (+3)|12 (+1)|2  (-4)|10 (+0)|5  (-3)|
+
+Condition Immunities :: groggy, Poison, Psychic, Blinded, Charmed, Deafened, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
+Senses               :: Blindsight 60 ft. (blind beyond this radius, can sense Veil energy), Passive Perception 10
+Languages            :: ---
+Challenge            :: 1/4 (50 XP) {{bonus Proficiency Bonus +2}}
+
+*Incorporeal Movement:* The mote can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+
+*Veil Resonance:* The mote emits a faint, barely perceptible hum. Creatures with an active spell effect on them or those concentrating on a spell that are within 10 feet of the mote feel a strange thrumming that is distracting; they have disadvantage on Constitution saving throws made to maintain concentration on spells.
+
+Actions
+*Disorienting Touch:* Melee Spell Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4+3) psychic damage, and the target must succeed on a DC 10 Wisdom saving throw or all attacks against it have advantage until the start of its next turn as its perception of its surroundings briefly warps.
+}}
+
+
+
+\page
+
+Salt-Cryst Stalker
+
+<br>
+
+The Salt Wastes are a monument to the Cataclysm, and the very salt is infused with lingering, corrupting magic. The Salt-Cryst Stalker is a horrifying example of this fusion. Once perhaps a large desert reptile or predatory insect, generations of exposure have transformed it into a creature of crystalline salt and raw Veil energy. Its body glitters cruelly under the harsh sun, armored in jagged, salt-like plates that are harder than stone, and its eyes glow with a faint, sickly light. It hunts with patient, ambush tactics, its touch leeching moisture and its presence a harbinger of desiccation and creeping Veil-taint.
+
+<br>
+
+<div class="fixed-image-container" style="
+    position: absolute; / Allows precise positioning /
+    top: 350px;         / Desired distance from the top of the page/container /
+    left: 70px;        / Desired distance from the left of the page/container /
+    width: 320px;       / Desired width of the image container /
+    height: auto;      / Desired height of the image container /
+    overflow: hidden;   / Prevents scrollbars on this container and clips content if it overflows /
+    / border: 1px solid red; / / Optional: uncomment to see the div's boundaries for placement /
+    z-index: 100;       / Helps control stacking order if you have overlapping elements /
+  ">
+  <img src="https://i.ibb.co/7J12VRM9/Salt-Cryst-Stalker.png" alt="Descriptive text for your image" style="
+      width: 100%;        / Image fills the width of the container /
+      height: 100%;       / Image fills the height of the container /
+      object-fit: contain; / Ensures the whole image is visible, scaled down if necessary. /
+      display: block;     / Removes extra space below the image /
+    ">
+</div>
+
+
+
+
+\column
+
+
+{{monster,frame,
+SALT-CRYST STALKER
+Medium monstrosity, Neutral Evil
+
+Armor Class :: 15 (natural crystalline armor)
+Hit Points  :: 97 (13d8+39)
+Speed       :: Speed 30 ft., burrow 20 ft.
+
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|16 (+3)|12 (+1)|17 (+3)|5  (-3)|14 (+2)|7  (-2)|
+
+Condition Vulnerabilities :: Thunder
+Condition Resistances :: Piercing from nonmagical attacks
+Condition Immunities :: Poison, Exhaustion
+Senses               :: Darkvision 60 ft., Tremorsense 60 ft. (while burrowed in salt or sand), Passive Perception 15
+Languages            :: (understands basic commands in Primordial if magically compelled)
+Challenge            :: 5 (1800 XP) {{bonus Proficiency Bonus +3}}
+
+*Crystalline Hide:* When the stalker is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails, as projectiles and energies harmlessly deflect or are absorbed by its salt crystals.
+
+*Desiccating Aura:* Any creature that starts its turn within 10 feet of the Salt-Cryst Stalker must succeed on a DC 14 Constitution saving throw or suffer one level of exhaustion (to a maximum of 3 levels from this aura). This exhaustion is removed after the creature finishes a short or long rest in a place with ample water. Creatures that do not need to drink water are immune to this aura.
+
+*Salt Strider:* The stalker ignores difficult terrain composed of sand, salt, or loose earth.
+
+Actions
+*Multiattack:* The Stalker makes two attacks: one with its Salt-Encrusted Bite and one with its Crystal Shard Claw.
+
+*Salt-Encrusted Bite:* Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6+3) piercing damage, and the target must succeed on a DC 14 Constitution saving throw or take an additional 7 (2d6) necrotic damage as moisture is leached from its body.
+
+*Crystal Shard Claw:* Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d10+3) slashing damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or be afflicted with Veil Sickness for 1 minute. An afflicted creature is poisoned, and the casting time of any spell it casts is doubled. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+*Shard Volley (Recharge 5–6):* The Stalker launches a spray of razor-sharp salt crystals in a 15-foot cone. Each creature in that area must make a DC 14 Dexterity saving throw, taking 22 (5d8) piercing damage on a failed save, or half as much damage on a successful one.
+
+}}
+
+
+
+\page
+
+Veil-Whisperer Cultist
+<br>
+
+Not all who are touched by the Veil become mindless beasts or suffer obvious physical corruption. Some, through dark pacts, obsessive study, or sheer desperate willpower, manage to channel its chaotic energies, becoming Veil-Whisperer Cultists. 
+
+These individuals, often former scholars, recluses, or desperate outcasts, believe the Veil holds keys to ultimate power, forbidden knowledge, or even a twisted form of salvation from Aelathar's harsh realities. 
+
+They often bear subtle marks of their communion—eyes that flicker with an unnatural light, skin that is unusually cold or hums faintly with static, or whispers that seem to emanate from their shadow. 
+
+They gather in secret cabals, often near places of Veil thinning, conducting strange rituals and seeking to deepen their connection, heedless of the cost to their sanity or the world around them.
+
+<br>
+<br>
 <br>
 <br>
 
-How has the Veilshatter Cataclysm and the corrupted magic affected their culture, beliefs, and physiology (if at all)?
-Are there specific Veil Corruption traits or Crystallization effects that are more common or manifest differently in certain races?
-What unique traditions or survival strategies have they developed for their chosen regions?
-How do they interact with the dominant factions and deities of their area?
-This framework should give you a solid starting point for integrating these races into Aelathar, making each feel like a natural and integral part of your unique world! It's all about taking their core D&D identity and filtering it through the harsh, magical lens of the Scorched Cradle.
+
+<div class="fixed-image-container" style="
+    position: absolute; / Allows precise positioning /
+    top: 450px;         / Desired distance from the top of the page/container /
+    left: 060px;        / Desired distance from the left of the page/container /
+    width: 320px;       / Desired width of the image container /
+    height: AUTO;      / Desired height of the image container /
+    overflow: hidden;   / Prevents scrollbars on this container and clips content if it overflows /
+    / border: 1px solid red; / / Optional: uncomment to see the div's boundaries for placement /
+    z-index: 100;       / Helps control stacking order if you have overlapping elements /
+  ">
+  <img src="https://i.ibb.co/ynrXXzqL/M-rk-kultist-i-eldgamle-ruiner.png" alt="Descriptive text for your image" style="
+      width: 100%;        / Image fills the width of the container /
+      height: 100%;       / Image fills the height of the container /
+      object-fit: contain; / Ensures the whole image is visible, scaled down if necessary. /
+      display: block;     / Removes extra space below the image /
+    ">
+</div>
+
+{{monster,frame
+VEIL-WHISPERER CULTIST
+
+Medium humanoid (any race, typically human, elf, or tiefling), Neutral Evil or Chaotic Evil
+
+Armor Class :: 13 (leather armor)
+Hit Points  :: 66 (12d8+12)
+Speed       :: 30 ft.
+
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|10 (+0)|14 (+2)|12 (+1)|15 (+2)|11 (+0)|16 (+3)|
+
+Condition Immunities :: groovy
+Senses               :: Darkvision 60 ft. (often granted by Veil exposure), Passive Perception 10
+Languages            :: Common, plus one or two others (often Abyssal or Primordial learned through Veil whispers)
+Challenge            :: 6 (2300 XP) {{bonus Proficiency Bonus +3}}
+
+Veil Attunement: The cultist has advantage on saving throws against being charmed or frightened by magical effects originating from the Veil or aberrations. When the cultist casts a spell that deals psychic or force damage, it can add its Charisma modifier to one damage roll of that spell.
+
+Whispers of Madness: As a bonus action, the cultist can target one creature it can see within 30 feet. The target must succeed on a DC 14 Wisdom saving throw or be subjected to disorienting whispers from the Veil. On a failed save, the target can't take reactions and has disadvantage on its next attack roll or ability check made before the end of its next turn.
+
+Spellcasting: The cultist is an 8th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). The cultist knows the following sorcerer spells:
+
+Cantrips (at will): Chill touch, Mage hand, Message, Minor illusion, Ray of frost
+
+1st level (4 slots): Dissonant whispers, Shield, Thunderwave
+
+2nd level (3 slots): Blur, Crown of madness, Phantasmal force
+
+3rd level (3 slots): counterspell, Hypnotic pattern, Whispering Rift 
+
+4th level (2 slots): Banishment, Veil Incursion
 
 
+Actions
+Dagger of Veilwarding (Magical Dagger): 
 
+Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4+2) piercing damage plus 7 (2d6) psychic damage. 
 
+A creature hit by this attack must succeed on a DC 14 Wisdom saving throw or believe the next illusion it sees created by the cultist in the next minute, provided the illusion is plausible.
 
+Invoke Veil's Wrath (1/Day): The cultist calls upon the raw power of the Veil. Each creature of the cultist's choice within 20 feet must make a DC 14 Constitution saving throw. On a failed save, a creature takes 27 (6d8) force damage and is pushed 10 feet away from the cultist. On a successful save, a creature takes half as much damage and is not pushed. After using this action, the cultist must succeed on a DC 10 Constitution saving throw or suffer one level of exhaustion and roll on Aelathar's Veil Corruption Table.
 
-I. The Time Before Memory: The Verdant Harmony (Ancient Beyond Reckoning)
-(This era is almost entirely the domain of myth, fragmented creation stories, and the faintest echoes in the most ancient ruins or the dreams of slumbering titans.)
-
-Legends Whisper of:
-A World Unmarred: Tales shared by the oldest Elven lorekeepers or whispered in Kaelgrin's deepest temples speak of Aelathar as a single, vibrant garden, where the very air hummed with pure, untainted magic.  Rivers of liquid light are said to have flowed, and mountains were not jagged peaks of ash and rock but colossal, living beings of earth and flora.   
-The First Architects: It's believed the Elemental Titans were not just shapers but singers of creation, their forms less defined, more fluid expressions of raw elemental power.  The Celestial Dragons, in turn, are rumored to have woven the first laws of reality not with pronouncements but with starlight and cosmic breath.    
-Primordial Races: Some obscure texts in Zyndralis hint at mortal races that existed in this age, beings perfectly attuned to the natural harmony, perhaps even possessing forms and senses incomprehensible to modern Aelatharians. What became of them is a complete mystery; perhaps they ascended, were subsumed into the land, or were utterly erased by later conflicts.
-The Unbound Heart: The Heart of Creation  is mythologized as a conscious, benevolent entity in this era, its power flowing freely and safely, nurturing all life without the chaotic volatility it later developed.   
-
-
-II. The Great Schism: Seeds of Discord & The War of Sundering (Epochs of Divine Conflict)
-(While the core events are known, specific details are often contradictory, found in epic poems, battle-scarred relics, and the conflicting dogmas of Voryx's and Theramach's followers.)
-
-Rumors and Fragmented Epics Tell of:
-The Titan's Resentment, The Dragon's Fear: While the PDF details the core reasons for the conflict, legends flesh these out. Minstrels sing of Theramach challenging the Dragon's order not with armies at first, but with grand, chaotic acts of creation that defied draconic laws of physics, like raising mountains that wept fire or sculpting rivers that flowed uphill. Conversely, Voryx's fear of the Heart of Creation is rumored to have stemmed from a specific, terrifying vision of Aelathar being consumed from within by its unchecked power.    
-Legendary Battlegrounds: Tales persist of specific, cataclysmic battles that are now unidentifiable ruins or warped landscapes. The Glass Expanse, for instance, is rumored to be the site where a council of Fire Titans made their last stand against a legion of Celestial Dragons, their combined fury melting the very land into obsidian.  The deepest chasms in the Ashen Peaks are said to be scars from titanic god-weapons.   
-Mortal Allegiances & Betrayals: The PDF mentions mortals choosing sides.  Folk tales (especially among older human and dwarven lines) speak of legendary mortal heroes who fought alongside specific dragons or titans, wielding divine boons, and also of terrible betrayals where entire mortal kingdoms switched allegiance, tipping the scales in regional conflicts. The names of these heroes and traitors are often invoked in oaths or curses.   
-Lost Artifacts of Divine Power: Whispers in hidden archives suggest that both sides forged weapons and artifacts of immense power, most lost or shattered. Some believe fragments of these still lie buried, radiating faint but potent magic, or corrupting influences.
-
-
-III. The Sundering: The Veilshatter Cataclysm & Its Immediate Aftermath (The World's Scarring)
-(This event is a stark, undeniable fact, a wound in history. The details of its immediate aftermath are nightmarish accounts passed down by the first traumatized survivors.)
-
-Historical Trauma Recounts:
-The Sky Wept Fire and Void: The explosion at the Heart of Creation  wasn't just a blast; survivors' accounts describe the sky tearing open, revealing not stars, but the swirling, screaming chaos of the outer void.  Molten earth and fragments of the divine combatants rained down for days, weeks even.   
-The First Veilstorms: These were not the (relatively) more predictable storms of the later Age of Scorching.  The initial Veilstorms were continent-spanning tempests of raw chaos, rewriting landscapes in hours, instantly mutating life, and driving countless souls to madness.    
-The Great Dying & The Flight to Shelter: The immediate aftermath saw a horrific die-off of flora, fauna, and unprepared mortals.  The stories focus on desperate flights to any conceivable shelter—deep caves (perhaps the first ventures into what would become the Cradle Sea's access points ), mountain hollows, or miraculously shielded valleys. This is where many ancient lines of communication and knowledge were irrevocably broken.   
-
-
-IV. The Age of Scorching: Rebuilding in a Broken World
-(This is the current, ongoing age, defined by survival, the corrupted Veil, and the slow emergence of new civilizations. )   
-
-A. The Era of Desolation (First ~300-500 Years Post-Cataclysm)
-(This period is characterized by brutal survival, widespread chaos, and the loss of much pre-Cataclysm knowledge. Historical records are scarce, mostly oral traditions and the foundational myths of the current settlements.)
-
-Key Features & Developments:
-Constant Peril: Life was a daily struggle against extreme weather, raging Veilstorms of terrifying intensity and frequency, mutated creatures, and the desperate violence of other survivors. The very land was unstable and actively hostile.   
-The Great Forgetting: Most complex societal structures, written languages, and advanced knowledge from the Age of Verdant Harmony were lost. Survival trumped scholarship. Only the most resilient or isolated communities (perhaps early proto-elves or dwarves in deep shelters) retained fragments.
-Emergence of Primal Beliefs: With the old gods silent or shattered, new, often desperate, faiths emerged, focused on placating the harsh elements, warding off mutations, or worshipping local manifestations of power. This was likely when the reverence for the surviving (though slumbering or weakened) Titans like Kaelgrin began to solidify out of sheer necessity, and when the first whispers of Nyraea's intervention might have been felt.    
-First Shelters, Proto-Settlements: Groups of survivors clung together in the most defensible locations: deep cave systems (forerunner to the Cradle Sea settlements), volcanic calderas (early Orrthar), defensible mesas (proto-Korrath), or the magically resilient parts of the Veiljungles (proto-Iravar). Zyndralis was likely just a terrifying landmark at this point, the Black Spire radiating dread.    
-
-B. The Rise of the Bastions (Approx. 500 Years Ago - 100 Years Ago)
-(A slow, arduous period of stabilization and societal formation. The major cities take recognizable shape, factions begin to formalize, and a semblance of order appears in isolated pockets. Historical records become more common, though often biased by city or faction.)
-
-Key Features & Developments:
-
-Founding of the Major Cities:
-
-Korrath: Founded on principles of strict order and martial discipline, likely after generations of brutal warfare against raiders and Veil-spawned horrors in the foothills. The worship of Saevyr becomes central.    
-
-Orrthar: Ingenuity born of desperation leads to the harnessing of geothermal vents in the 
-
-Ashen Peaks, allowing for a more stable existence. Guilds of smiths and engineers emerge, with Theramach and Kaelgrin/Orren cults gaining prominence.    
-
-Iravar: Generations of survivors in the Veiljungles slowly learn to coexist with (or at least defend against) its mutated nature, forming a society around the principles of Eryssia and natural balance.    
-
-Zyndralis: As the worst of the initial chaos subsides slightly, the enigmatic Black Spire begins to draw scholars and mystics. The Monastery of the Obsidian Circle is founded, dedicated to studying and containing its power, and the city grows around it, often in contention with the Spire's influence.    
-
-Formalization of Factions: The Veilwardens likely originate in Zyndralis as researchers, but splinter groups with different approaches (like Korrath's hunters) form.  The clergy of the major deities (Shardbound, Weavekeepers, etc.) become organized.  Trade Guilds cautiously begin to map perilous routes.    
-
-The Veilstorm Shift: Scholars (particularly in Zyndralis) begin to meticulously record Veilstorm activity, noticing over centuries a very gradual, slight decrease in their raw intensity and overall frequency.  This fuels cautious optimism in some, and fears of a deceptive lull in others.    
-
-Rediscovery & Conflict: Fragments of pre-Cataclysm lore are occasionally unearthed, leading to new understanding but also conflict over their interpretation or use. The major cities begin to vie for scarce resources and influence, leading to border skirmishes and ideological clashes.
-
-C. The Present Scorch (Last ~100 Years to Current Day)
-(This is the era your campaign will likely begin in. It's defined by established, if often tense, societies, ongoing struggles, and new emerging threats and mysteries. Historical records are relatively common but still colored by perspective.)
-
-Key Features & Developments:
-The Precarious Balance: The major cities are established powers, but their relationships are fraught with tension. Korrath and Orrthar might be in a cold war over resource-rich contested territories in the Ashen Peaks foothills.  Zyndralis's secretive nature might breed suspicion, while Iravar struggles to protect its fragile ecosystem from outside encroachment or internal Veil corruption.   
-
-The Veil Debate Intensifies: The scholarly debate about the Veil's state – is it slowly healing, is this a temporary lull, or is Nyraea subtly intervening? – has real-world consequences. It influences trade routes, settlement expansions, and the urgency given to Veilwarden activities.  Some radical factions might try to hasten what they believe is a healing process, or conversely, exploit perceived weaknesses in the Veil.   
-
-New Discoveries & Old Threats:
-Recent expeditions might have uncovered significant pre-Cataclysm ruins in the Glass Expanse or beneath the Scorched Cradle, reigniting interest in lost technologies or magics, and attracting dangerous attention.
-There are persistent rumors of a specific slumbering Titan (other than Kaelgrin) showing signs of stirring in a remote region, causing localized tremors or strange elemental phenomena.    
-
-A new, particularly insidious cult dedicated to the outer void, or perhaps to accelerating Crystallization, might be gaining influence in the shadows of a major city or among desperate wasteland communities.
-
-Resource Scarcity & Innovation: The constant struggle for essentials like clean water, fertile land (however small), and safe travel routes continues. This drives innovation (especially in Orrthar and among trade guilds) but also desperation and conflict. The magical items list indicates a society that has adapted to creating tools for this environment.
-
-The Weight of Magic: The dangers of Veil magic and the threat of Crystallization are ever-present realities that shape laws, social structures, and individual lives.  Recent cases of powerful mages succumbing to Veilshard Transformation might cause public panic or crackdowns by authorities.    
-
-Whispers of the Artifacts: While the major artifacts are legendary, perhaps recent events or prophecies have hinted at the location or re-emergence of one, setting powerful factions and desperate individuals into motion.    
-
-This more detailed timeline should provide a strong foundation for your campaign, allowing for ancient mysteries, epic historical echoes, and immediate, pressing concerns for your players to engage with in "The Present Scorch"!
+}}
 
 
 
@@ -1369,11 +2079,230 @@ This more detailed timeline should provide a strong foundation for your campaign
 
 
 
+\page
+
+{{backCover}}
+
+Aelathar
+
+THE SCORCHED CRADLE AWAITS YOUR TALE...
+
+<br>
+
+The last grain of sand has fallen through the hourglass, yet the story of Aelathar is far from over. It is a saga etched in scarred landscapes and the desperate courage of those who call this broken world home. What role will you play in its next, uncertain chapter?
+
+<br>
+
+WILL YOU DARE TO:
+
+Walk the Salt Wastes where mirages whisper lies and ancient magic festers beneath the crystalline crust?
+Uncover the secrets of the Black Spire, delving into lore that shattered a world and could unravel your sanity?
+
+Navigate the treacherous politics of Korrath's iron law and Zyndralis's veiled ambitions, where trust is a scarcer commodity than water?
+Brave the Veilstorms, not as a victim, but as a master of their chaotic energies, or perhaps their next sacrifice?
+
+Wield the perilous gift of Veil magic, knowing each incantation frays the barrier between realities and risks the dread touch of Crystallization?
+Seek out the lost legacies of Celestial Dragon and Elemental Titan, and decide whether their ancient war truly ended, or merely sleeps?
+
+Befriend the ostracized Stone-Scales or the enigmatic Veilkin, understanding the unique burdens and strengths forged in Aelathar’s harsh embrace?
+
+Confront the Shard-Heart Desolators and other horrors born of the Veil, or delve deeper to understand the source of their sorrowful rage?
+
+Quest for artifacts of unimaginable power, like the Shroud of Unmaking, and choose whether to destroy them, hide them, or claim their terrible might?
+
+<br>
+
+Aelathar offers no easy paths, no certain victories. Only the biting winds, the oppressive sun, the whispered promises of forgotten gods, and the constant, thrilling peril of a world where magic itself is a double-edged gift.
+
+<br>
+
+Your legend begins in the dust and embers.
+<br>
+What will they say of you when the Veilstorms clear?
+
+<br>
+
+AELATHAR: THE SCORCHED CRADLE
+Adventure in a World Forged by Cataclysm.
+
+
+
+For use with any D&D 5.5E 2024
 
 
 
 
+![background image](https://i.ibb.co/knpPjPH/Lastpageimage.png){position:absolute,bottom:0,left:-,height:100%}
+
+{{logo
+![](https://i.ibb.co/990vShTV/Project-Title-Logo-for-Aelathar-The-Scorched-Cradle-Fantasy-Campaign-Setting-Core-Concept-The-logo-s.jpg)
+
+Homebrewery.Naturalcrit.com
+}}
+
+\page
+
+Aelathar-Specific Spells and abilities
+(These spells are unique to the Aelathar campaign setting and may be learned by player characters (typically Sorcerers, Warlocks, and Wizards, unless otherwise noted) through discovery of ancient texts, tutelage from unique masters, or other means determined by the Dungeon Master. Some are also utilized by specific NPCs or creatures within the world.)
+
+<br>
 
 
+Crystalline Shard Ward
+1st-level abjuration
+Casting Time: 1 reaction, which you take when you are hit by an attack or targeted by the magic missile spell
+Range: Self
+Components: V, S
+Duration: 1 round
+Effect: When an attack would hit you or you are targeted by the magic missile spell, you can momentarily draw upon the ambient Veil energy to crystallize the air around you into a shimmering, defensive lattice. Until the start of your next turn, you gain a +5 bonus to your AC, including against the triggering attack, and you take no damage from magic missile. The crystalline lattice shatters harmlessly after protecting you or when the spell ends.
+Aelathar Lore & Connection: A common reactive defense taught in Zyndralis and sometimes independently discovered. It's a minor manipulation of the energies that lead to Crystallization, but in a controlled, fleeting burst.
+
+Primary Users: Arcane spellcasters (player characters, NPCs).
+
+<br>
+
+Unraveling Blast
+3rd-level evocation
+Casting Time: 1 action
+Range: 90 feet
+Components: V, S, M (a frayed silken cord that unravels when the spell is cast)
+Duration: Instantaneous
+Effect: You unleash a volatile bolt of chaotic Veil energy at one creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 5d8 force damage. Additionally, if the target is a creature, it must succeed on a Wisdom saving throw or suffer a minor, random Veil-warping effect until the end of your next turn. Roll a d4 to determine the effect:
+Sensory Scramble: The target has disadvantage on attack rolls.
+Reality Shiver: The target's speed is halved, and it cannot take reactions.
+Mental Haze: The target has disadvantage on Wisdom and Intelligence saving throws.
+Flickering Form: Attacks against the target are made with advantage.
+At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the force damage increases by 1d8 for each slot level above 3rd.
+Aelathar Lore & Connection: A direct, if somewhat uncontrolled, channeling of the Veil's chaotic nature, known for its raw power and unpredictability.
+
+Primary Users: Arcane spellcasters (player characters, NPCs).
+
+<br>
+
+Whispering Rift
+3rd-level conjuration
+Casting Time: 1 action
+Range: 90 feet
+Components: V, S, M (a shard of obsidian and a dessicated moth wing)
+Duration: Concentration, up to 1 minute
+Effect: You tear open a temporary, localized rift into the unsettling fringes of the Veil, creating a 20-foot-radius sphere of swirling, intangible shadows and disembodied, maddening whispers at a point you can see within range. The sphere spreads around corners, and its area is heavily obscured. When the sphere appears, or when a creature enters its area for the first time on a turn or starts its turn there, that creature must make a Wisdom saving throw. On a failed save, the creature takes 3d6 psychic damage and becomes frightened of the sphere's area until the end of its next turn. On a successful save, it takes half as much damage and is not frightened. The sphere's area is difficult terrain. As a bonus action on your turn, you can move the sphere up to 30 feet. If it moves into a space occupied by a creature, that creature must make the saving throw against the sphere's psychic damage and fear effect.
+Aelathar Lore & Connection: Used by those who draw power from the Veil's unsettling aspects, like Veil-Whisperer Cultists, to control areas and unnerve opponents.
+
+Primary Users: Arcane spellcasters (player characters, NPCs), Veil-Whisperer Cultists.
+
+<br>
+
+Veil Incursion
+4th-level illusion
+Casting Time: 1 action
+Range: 90 feet
+Components: V, S
+Duration: Instantaneous
+Effect: You attempt to tear a minuscule, momentary rift into the target's perception, flooding their mind with the disorienting, cacophonous unreality that seethes beyond the Veil. Choose one creature you can see within range. The target must make a Wisdom saving throw. On a failed save, the creature takes 6d8 psychic damage as its mind reels from the sensory overload, and it is afflicted by Veil Shock until the end of your next turn. While suffering Veil Shock: the creature has disadvantage on all attack rolls; it has disadvantage on Wisdom (Perception) checks; and its speed is halved. On a successful save, the creature takes half as much damage and suffers no additional effects.
+At Higher Levels: When you cast this spell using a spell slot of 5th level or higher, the psychic damage increases by 1d8 for each slot level above 4th.
+Aelathar Lore & Connection: Developed by those who have peered too deeply into the Veil, forcing a victim to perceive raw chaos.
+
+Primary Users: Arcane spellcasters (player characters, NPCs), Veil-Whisperer Cultists.
+
+\page
+
+<br>
+
+Conjure Veil Echo
+5th-level conjuration
+Casting Time: 1 minute
+Range: 90 feet
+Components: V, S, M (a shard of obsidian from the Black Spire or a handful of sand from the Shimmering Sands)
+Duration: Concentration, up to 1 hour
+Effect: You tear a small hole in the Veil, calling forth a creature of chaotic energy. Choose to summon: one Veil-Twisted Mauler, two Salt-Cryst Stalkers, four Veil Grub Swarms, or eight Shifting Motes. Summoned creatures appear in unoccupied spaces you can see, are allied to you, share your initiative (acting after you), and obey your verbal commands. If concentration is broken, you lose control, the creature becomes hostile, and disappears 1 hour after being summoned. Upon completing the casting, you must make a DC 13 Constitution saving throw. On a failure, you gain one level of exhaustion and must immediately roll on the Veil Corruption Table.
+Aelathar Lore & Connection: A dangerous spell summoning constructs of Veil energy and Aelatharian essence, viewed with extreme caution.
+
+Primary Users: Arcane spellcasters (player characters, NPCs willing to take the risk).
+
+<br>
+
+Zone of Unmaking
+7th-level transmutation
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S, M (a piece of glass from the Glass Expanse that shatters, and a tear shed in sorrow)
+Duration: Concentration, up to 1 minute
+Effect: Creates a 30-foot-radius sphere of dangerously thinned Veil energy. Creatures in the area or entering it make a Constitution saving throw, taking 6d10 force damage on a fail (half on success). This save is repeated if ending turn there. The area is difficult terrain. Any creature casting a spell (1st level or higher slot) within the zone must first succeed on a DC 15 Constitution saving throw, or the spell fails, the slot is consumed, the caster takes 2d10 psychic damage, and rolls on the Veil Corruption Table.
+Aelathar Lore & Connection: Creates a localized pocket of chaotic energy reminiscent of the Veilshatter Cataclysm. Considered exceptionally dangerous.
+
+Primary Users: Powerful and often reckless/desperate arcane spellcasters (player characters, high-level NPCs).
+
+<br>
+
+Veilrend Cascade
+9th-level evocation
+Casting Time: 1 action
+Range: Self (150-foot cone)
+Components: V, S, M (the petrified heart of a creature that died in a Veilstorm, which crumbles to dust)
+Duration: Instantaneous
+Effect: Unleashes a torrent of raw, unmaking energy. Each creature in a 150-foot cone must make a Dexterity saving throw, taking 10d8 force damage and 10d8 psychic damage on a failed save (half on success). Creatures reduced to 0 HP are disintegrated. The landscape in the cone is permanently scarred into difficult terrain.
+The Cost of Power: Immediately after casting, you take 10d6 irreducible psychic damage, gain three levels of exhaustion, roll twice on the Veil Corruption Table (suffering both effects, intensified if duplicated), and there's a 50% chance a permanent, localized Veil tear opens within the cone.
+Aelathar Lore & Connection: The closest a mortal can come to replicating the Veilshatter Cataclysm. Apocalyptic magic with devastating personal and environmental costs.
+
+Primary Users: Only the most powerful, desperate, or hubristic arcane spellcasters (archvillains, perhaps a desperate player character in an ultimate sacrifice).
+Unique Monster Abilities of Aelathar
+(These are traits and actions specific to the creatures of Aelathar, born from its unique environment and magical corruption.)
 
 
+<br>
+
+Veil Grub Swarm
+
+Veil Sickness Aura: Creatures starting their turn in the swarm's space make a DC 10 Con save or suffer disadvantage on sight/smell Perception checks and lose reactions for 1 turn.
+Bites (Psychic Rider): Its bite attack, if it hits a creature, forces a DC 10 Con save to avoid an additional 1d4 psychic damage.
+Used by: Veil Grub Swarm
+
+<br>
+
+Veil-Twisted Mauler
+Unstable Form: Attack rolls against the Mauler have disadvantage unless the attacker is within 5 feet. Touching or hitting it with a melee attack within 5 feet deals 1d6 psychic damage to the attacker.
+Warped Bite (Frighten): Its bite attack forces a DC 12 Wis save to avoid being frightened of the Mauler for 1 turn.
+Crystalline Claw (Speed Reduction): Its claw attack forces a DC 12 Con save to avoid having speed halved for 1 turn.
+Veil Jaunt (Recharge 5–6): Teleports up to 30 ft. Creatures within 5 ft. of its departure and arrival points make a DC 12 Dex save or take 2d6 force damage.
+Used by: Veil-Twisted Mauler
+
+<br>
+
+\page
+
+Shard-Heart Desolator
+
+Aura of Dissonance: Within 30 ft., creatures' speed is halved, ranged spell attacks have disadvantage. Spells cast (1st+ level) require a d20 roll; on a 1, spell fails, slot lost, caster rolls on Veil Corruption Table.
+Crystalline Regeneration: Regains 10 HP at start of its turn if it has at least 1 HP (suppressed by radiant damage).
+Shard Slam (Crystallization Point): Its slam attack forces a DC 17 Con save to avoid gaining 1 Crystallization Point.
+Veil Rupture (Recharge 5–6): 60-ft cone. DC 17 Dex save for 10d8 force damage (half on success). Fail by 5+ stuns for 1 turn.
+Summon Veil Echoes (1/Day): Summons 1d4 Veil-Twisted Maulers or 2d6 Veil Grub Swarms.
+Legendary Action: Crystalline Shards (Costs 2 Actions): Creatures of choice within 30 ft make DC 17 Dex save, taking 3d8 piercing damage (half on success).
+Legendary Action: Consume Magic (Costs 3 Actions): Targets one creature concentrating on a spell within 60 ft. DC 17 Wis save or concentration broken; Desolator regains HP equal to twice the spell's level.
+Used by: Shard-Heart Desolator
+
+<br>
+
+Shifting Mote
+
+Veil Resonance: Creatures within 10 ft. concentrating on spells or with active spell effects have disadvantage on Con saves to maintain concentration.
+Disorienting Touch: Its touch attack (melee spell attack) deals 1d4+3 psychic damage, and target makes DC 10 Wis save or attacks against it have advantage for 1 turn.
+Used by: Shifting Mote
+Salt-Cryst Stalker
+
+Crystalline Hide: On a successful Dex save vs. half damage effect, takes no damage; takes half on a fail.
+Desiccating Aura: Creatures starting turn within 10 ft. make DC 14 Con save or suffer one level of exhaustion (max 3 from aura).
+Salt-Encrusted Bite (Necrotic Rider): Its bite attack forces a DC 14 Con save to avoid an additional 2d6 necrotic damage.
+Crystal Shard Claw (Veil Sickness): Its claw attack forces a DC 14 Con save or be afflicted with Veil Sickness (poisoned, spellcasting time doubled) for 1 minute (save ends).
+Shard Volley (Recharge 5–6): 15-ft cone. DC 14 Dex save for 5d8 piercing damage (half on success).
+Used by: Salt-Cryst Stalker
+
+<br>
+
+Veil-Whisperer Cultist
+
+Veil Attunement: Advantage on saves vs. charmed/frightened from Veil/aberration magic. Adds Cha mod to one damage roll of psychic/force spells it casts.
+Whispers of Madness: Bonus action, target within 30 ft. makes DC 14 Wis save or can't take reactions and has disadvantage on next attack/ability check.
+Dagger of Veilwarding (Attack Effect): Its dagger attack deals piercing + 2d6 psychic. Hit creature makes DC 14 Wis save or believes cultist's next plausible illusion in next minute.
+Invoke Veil's Wrath (1/Day): Creatures of choice within 20 ft. make DC 14 Con save. Fail: 6d8 force damage and pushed 10 ft. Success: half damage, not pushed. Cultist makes DC 10 Con save or 1 exhaustion level + roll on Veil Corruption Table.
+Used by: Veil-Whisperer Cultist
