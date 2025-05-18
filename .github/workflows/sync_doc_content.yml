@@ -1,0 +1,75 @@
+name: Sync Google Doc Content to Repo
+
+on:
+  schedule:
+    # Kjør hver 6. time (kl. 00, 06, 12, 18 UTC)
+    # Du kan endre dette. F.eks. '0 */12 * * *' for hver 12. time.
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Dette lar deg starte arbeidsflyten manuelt fra Actions-fanen
+
+jobs:
+  sync-file:
+    runs-on: ubuntu-latest # Bruker en standard Linux-kjøremiljø
+    permissions:
+      contents: write # Gir actionen lov til å skrive (committe) til repositoriet
+
+    steps:
+      - name: Checkout code
+        # Denne actionen sjekker ut koden i repositoriet ditt
+        # slik at arbeidsflyten kan jobbe med den.
+        uses: actions/checkout@v4 # Bruk en nyere versjon hvis tilgjengelig
+
+      - name: Fetch content from Apps Script Web App
+        id: fetch_content
+        run: |
+          # ------------------------------------------------------------------
+          # VIKTIG: Erstatt URLen nedenfor med din FAKTISKE Apps Script Nettapp-URL!
+          # Den du fikk da du publiserte doGet-funksjonen med tilgang for "Alle".
+          # ------------------------------------------------------------------
+          WEBAPP_URL="https://script.google.com/macros/s/AKfycbzhp66ZlMcNVinJUDjCRawlcr2aPGhPn8vzTKYjADKKxZ3MIOS8QM_gdAgkiJ6JhaFi/exec"
+          
+          # Last ned innholdet og lagre det i en midlertidig fil
+          # -L følger omdirigeringer, -s er stille modus, -o lagrer til fil
+          curl -L -s -o doc_content_temp.txt "$WEBAPP_URL"
+          
+          echo "Innhold hentet fra webapp."
+          # Gjør innholdet tilgjengelig for neste steg
+          echo "content_file=doc_content_temp.txt" >> $GITHUB_OUTPUT
+
+      - name: Commit and push if content changed
+        run: |
+          # ------------------------------------------------------------------
+          # ENDRE FILNAVN HER HVIS DU ØNSKER NOE ANNET ENN kunnskap.txt
+          # Dette er filen som vil bli opprettet/oppdatert i repositoriet ditt.
+          # Gemini Gem-plattformen din vil da peke til denne filen.
+          # ------------------------------------------------------------------
+          TARGET_FILE="aelathar_kunnskap.txt" 
+
+          # Sjekk om den nedlastede filen faktisk har innhold
+          if [ ! -s "${{ steps.fetch_content.outputs.content_file }}" ]; then
+            echo "Nedlastet fil er tom. Avbryter."
+            exit 1 # Avslutt med feil hvis filen er tom
+          fi
+
+          # Flytt/erstatt målfilen med det nye innholdet
+          mv "${{ steps.fetch_content.outputs.content_file }}" "$TARGET_FILE"
+          
+          # Konfigurer Git
+          git config --global user.name 'GitHub Action Bot'
+          git config --global user.email 'github-actions-bot@users.noreply.github.com'
+          
+          # Legg til filen i Git
+          git add "$TARGET_FILE"
+          
+          # Commit bare hvis det er endringer i filen
+          # `git diff --staged --quiet` returnerer 0 hvis ingen endringer, 1 hvis det er endringer
+          if ! git diff --staged --quiet; then
+            git commit -m "Automatisk oppdatering av $TARGET_FILE fra Google Doc"
+            echo "Endringer committet. Prøver å pushe..."
+            git push
+            echo "Push fullført."
+          else
+            echo "Ingen endringer i $TARGET_FILE å committe."
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Standardtoken med nødvendige rettigheter
