@@ -4,7 +4,7 @@ on:
   schedule:
     # Kjør hver 6. time (kl. 00, 06, 12, 18 UTC)
     # Du kan endre dette. F.eks. '0 */12 * * *' for hver 12. time.
-    - cron: '0 */6 * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch: # Dette lar deg starte arbeidsflyten manuelt fra Actions-fanen
 
 jobs:
