@@ -41,13 +41,97 @@ the Scorched Cradle
 Campaign Setting Core Rules Book
 
 
-{{imageMaskCenter12,--offsetX:0%,--offsetY:0%,--rotation:0
-  ![background image](https://i.ibb.co/Rpg2JZPt/2ndpage.png){position:absolute,bottom:0,left:0,height:76%}
+{{imageMaskCenter12,--offsetX:0%,--offsetY:3%,--rotation:0
+  ![background image](https://i.ibb.co/Rpg2JZPt/2ndpage.png){position:absolute,bottom:0,left:0,height:79%}
 }}
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+Credits:
+
+NardoGames
+The members of my gaming group.
+
+We have played together for over 30 years now, most of us
+
+Thanks for rolling dice and making me laugh for so many decades
+
+
 
 {{logo ![](https://i.ibb.co/QFLvfR18/Untitled-design-3.png)}}
 
 \page
+
 {{toc,wide
 Contents
 
@@ -75,45 +159,45 @@ Contents
 #### [{{ Orcs:}}{{ 14}}](#p14)
 #### [{{ Tieflings:}}{{ 14}}](#p14)
 #### [{{ Aasimar:}}{{ 15}}](#p15)
-#### [{{ Magic in Aelathar}}{{ 16}}](#p16)
-[{{ The Veil: Nature and Instability}}{{ 16}}](#p16)
-[{{ Arcane Magic: The Double-Edged Sword}}{{ 16}}](#p16)
-### [{{ Veilstorms}}{{ 17}}](#p17)
-#### [{{ Veil Corruption}}{{ 18}}](#p18)
-#### [{{ Long-Term Effects of Magic Use (Crystallization):}}{{ 18}}](#p18)
-#### [{{ Druidic and Clerical Magic:}}{{ 19}}](#p19)
-#### [{{ Pros and Cons of Arcane Magic:}}{{ 19}}](#p19)
-#### [{{ Veilshard Extraction:}}{{ 20}}](#p20)
-#### [{{ Pantheon of Aelathar}}{{ 21}}](#p21)
-[{{ Major Deities (Figures of the Cataclysm & Primary Powers)}}{{ 21}}](#p21)
-### [{{ Lesser Deities, Demigods, and Other Powers}}{{ 26}}](#p26)
-#### [{{ Major Cities and Regions}}{{ 27}}](#p27)
-[{{ Korrath (Capital of Korridan Region – likely in the defensible foothills bordering the Salt Wastes and Ashen Peaks)}}{{ 27}}](#p27)
-[{{ Iravar (Capital of Lyssira Region – heart of the Veiljungles)}}{{ 27}}](#p27)
-[{{ Orrthar (Capital of Talrova Region – within the Ashen Peaks)}}{{ 28}}](#p28)
-[{{ Zyndralis (Capital of Zynara Region – built around/near the Black Spire in the Scorched Cradle)}}{{ 28}}](#p28)
-#### [{{ Factions & Organizations}}{{ 29}}](#p29)
-#### [{{ Themes & Adventure Hooks}}{{ 29}}](#p29)
-### [{{ Religious Ceremonies and Festivals}}{{ 30}}](#p30)
-#### [{{ Voryx, the Shattered Wyrm}}{{ 30}}](#p30)
-#### [{{ Theramach, the Everflame}}{{ 30}}](#p30)
-#### [{{ Nyraea, the Veilweaver}}{{ 31}}](#p31)
-#### [{{ Kaelgrin, the Maw of the Earth}}{{ 31}}](#p31)
-#### [{{ Eryssia, Bloom of Resilience}}{{ 32}}](#p32)
-#### [{{ Saevyr, the Iron Judge}}{{ 32}}](#p32)
-### [{{ NOTES and etc}}{{ 34}}](#p34)
-#### [{{ Voryx’s Regret (The Shard of the Veilrend)}}{{ 35}}](#p35)
-#### [{{ The Unfettered Heart of Theramach}}{{ 36}}](#p36)
-#### [{{ The Scales of Sylvandros (The Last Celestial’s Mandate)}}{{ 37}}](#p37)
-#### [{{ Kaelgrin’s Resonant Core}}{{ 38}}](#p38)
-#### [{{ The Shroud of Unmaking (The Veil’s Scar)}}{{ 39}}](#p39)
-### [{{ Denizens of a Shattered World—The Bestiary of Aelathar}}{{ 40}}](#p40)
-#### [{{ Veil Grub Swarm}}{{ 41}}](#p41)
-#### [{{ Veil-Twisted Mauler}}{{ 41}}](#p41)
-#### [{{ Shard-Heart Desolator}}{{ 42}}](#p42)
-#### [{{ Shifting Mote}}{{ 43}}](#p43)
-#### [{{ Salt-Cryst Stalker}}{{ 44}}](#p44)
-#### [{{ Veil-Whisperer Cultist}}{{ 45}}](#p45)
+#### [{{ The Stone-Scales}}{{ 16}}](#p16)
+#### [{{ The Veilkin (Veil-Touched Humanoids)}}{{ 18}}](#p18)
+### [{{ Magic in Aelathar – A Corrupted Gift}}{{ 20}}](#p20)
+### [{{ Veilstorms}}{{ 23}}](#p23)
+#### [{{ Veil Corruption}}{{ 24}}](#p24)
+#### [{{ Long-Term Effects of Magic Use (Crystallization):}}{{ 24}}](#p24)
+#### [{{ Druidic and Clerical Magic:}}{{ 25}}](#p25)
+#### [{{ Pros and Cons of Arcane Magic:}}{{ 25}}](#p25)
+#### [{{ Veilshard Extraction:}}{{ 26}}](#p26)
+#### [{{ Pantheon of Aelathar}}{{ 27}}](#p27)
+[{{ Major Deities (Figures of the Cataclysm & Primary Powers)}}{{ 27}}](#p27)
+### [{{ Lesser Deities, Demigods, and Other Powers}}{{ 32}}](#p32)
+#### [{{ Major Cities and Regions}}{{ 33}}](#p33)
+[{{ Korrath (Capital of Korridan Region – likely in the defensible foothills bordering the Salt Wastes and Ashen Peaks)}}{{ 33}}](#p33)
+[{{ Iravar (Capital of Lyssira Region – heart of the Veiljungles)}}{{ 33}}](#p33)
+[{{ Orrthar (Capital of Talrova Region – within the Ashen Peaks)}}{{ 34}}](#p34)
+[{{ Zyndralis (Capital of Zynara Region – built around/near the Black Spire in the Scorched Cradle)}}{{ 34}}](#p34)
+#### [{{ Factions & Organizations}}{{ 35}}](#p35)
+#### [{{ Themes & Adventure Hooks}}{{ 35}}](#p35)
+### [{{ Religious Ceremonies and Festivals}}{{ 36}}](#p36)
+#### [{{ Voryx, the Shattered Wyrm}}{{ 36}}](#p36)
+#### [{{ Theramach, the Everflame}}{{ 36}}](#p36)
+#### [{{ Nyraea, the Veilweaver}}{{ 37}}](#p37)
+#### [{{ Kaelgrin, the Maw of the Earth}}{{ 37}}](#p37)
+#### [{{ Eryssia, Bloom of Resilience}}{{ 38}}](#p38)
+#### [{{ Saevyr, the Iron Judge}}{{ 38}}](#p38)
+### [{{ NOTES and etc}}{{ 40}}](#p40)
+#### [{{ Voryx’s Regret (The Shard of the Veilrend)}}{{ 41}}](#p41)
+#### [{{ The Unfettered Heart of Theramach}}{{ 42}}](#p42)
+#### [{{ The Scales of Sylvandros (The Last Celestial’s Mandate)}}{{ 43}}](#p43)
+#### [{{ Kaelgrin’s Resonant Core}}{{ 44}}](#p44)
+#### [{{ The Shroud of Unmaking (The Veil’s Scar)}}{{ 45}}](#p45)
+### [{{ Denizens of a Shattered World—The Bestiary of Aelathar}}{{ 46}}](#p46)
+#### [{{ Veil Grub Swarm}}{{ 47}}](#p47)
+#### [{{ Veil-Twisted Mauler}}{{ 47}}](#p47)
+#### [{{ Shard-Heart Desolator}}{{ 48}}](#p48)
+#### [{{ Shifting Mote}}{{ 49}}](#p49)
+#### [{{ Salt-Cryst Stalker}}{{ 50}}](#p50)
+#### [{{ Veil-Whisperer Cultist}}{{ 51}}](#p51)
 }}
 
 
@@ -139,7 +223,7 @@ Contents
 
 
 
-
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -271,6 +355,8 @@ Magical storms, known as Veilstorms, became a terrifyingly common occurrence, sw
 
 Mortals, now largely abandoned by their divine patrons and stripped of their established civilizations, were left to fend for themselves in this harsh, unforgiving new reality. Magic became both an essential tool for survival and a dangerous, corrupting burden, as its very use—especially arcane magic drawn from the damaged Veil—threatened to further destabilize the fragile fabric of existence. From the ashes and dust of the old world, new, hardened cultures and desperate settlements slowly began to emerge, each irrevocably shaped and scarred by the lingering trauma and harsh lessons of the Cataclysm.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 Peoples of a Scarred World
@@ -291,6 +377,7 @@ Among them, you might encounter the Stone-Scales, rare and solitary wanderers be
 <br>
 
 This chapter delves into the peoples who inhabit Aelathar, exploring how the familiar have been changed by its trials, and introducing those born uniquely of its sorrow and its magic. For in the Scorched Cradle, survival itself is an evolution, and every soul is a story etched in dust and defiance.
+
 
 \column
 
@@ -324,6 +411,8 @@ Deities: All deities would find human worshippers. Their adaptability means they
       display: block;     / Removes extra space below the image /
     ">
 </div>
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -384,6 +473,7 @@ Cultural Adaptations: If in the Cradle Sea, they might have adapted to aquatic e
     ">
 </div>
 
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -483,6 +573,8 @@ Caravan Routes & Settlements: Their knack for going unnoticed or fitting in coul
 
 Cultural Adaptations: Aelatharian halflings would be masters of making the most of scarce resources. Their communities would be tight-knit, emphasizing cooperation and quiet cheerfulness as a bulwark against despair. Storytelling and simple crafts would be highly valued. They might develop unique survival techniques for desert travel if found in nomadic groups. Eryssia would be a common patron, but those focused on trade or secrets might favor Azryth.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 Dragonborn:
@@ -543,6 +635,8 @@ Nomadic Clans: Many Dragonborn, particularly Unbound or those seeking lost lore,
     ">
 </div>
 
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -698,7 +792,7 @@ And watch the Veil, its tattered edge, with ever-steady hand.
 
 
 
-
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -764,6 +858,8 @@ Remote Mountain Ranges: Smaller, isolated Goliath tribes might exist in any sign
     ">
 </div>
 
+<div class='pageNumber auto'></div>
+
 \page
 
 Orcs:
@@ -824,6 +920,9 @@ Cultural Adaptations: Tiefling culture in Aelathar would be shaped by how they a
       display: block;     / Removes extra space below the image /
     ">
 </div>
+
+<div class='pageNumber auto'></div>
+
 \page
 
 Aasimar:
@@ -853,6 +952,214 @@ Cultural Adaptations: Aasimar in Aelathar would likely feel the weight of the wo
       display: block;     / Removes extra space below the image /
     ">
 </div>
+
+<div class='pageNumber auto'></div>
+
+\page
+
+The Stone-Scales
+
+<br>
+
+Origin & Backstory: The Stone-Scales are rare and often tragic figures in Aelathar, born from the improbable union of Dragonborn and Goliath lines. Such pairings are exceedingly uncommon, often stemming from:
+
+<br>
+
+Forgotten Alliances: Whispers exist of brief, desperate alliances during the darkest days of the War of Sundering or the early Age of Scorching, where isolated Dragonborn clans and Goliath tribes were forced to cooperate for survival. Children born of these unions were often seen as symbols of a painful past or a compromised lineage once the immediate crisis passed.
+Outcasts United: More commonly, Stone-Scales are born from individuals already ousted from their own societies who find solace or necessity in each other's company.
+
+<br>
+
+Divine Echoes: Some rare sages might theorize that the intense, clashing energies of the Celestial Dragons and Elemental Titans during the Cataclysm left certain mortal lines more mutable, or that the very land, saturated with these opposing divine forces, can rarely influence births, leading to individuals who embody this ancient conflict.
+
+Regardless of their specific origin, Stone-Scales are almost universally met with suspicion. Dragonborn communities often see the "titan blood" as a corruption of their celestial heritage, a reminder of their ancient enemies and the earth-bound brute force they disdained. Goliath tribes, particularly Kaelgrin's Stoneguard, may view the "dragon scales" as a mark of arrogance, unnatural ambition, or a connection to the chaotic magic that scarred the world. Forgestruck Goliaths tied to Theramach might be slightly more accepting of their inherent might, but still wary of their draconic side.
+
+Thus, Stone-Scales are wanderers, often solitary, or found in small, tight-knit groups—"found families"—making their way through the harshest parts of Aelathar. They learn self-reliance from a young age, carrying the weight of two legacies while belonging to neither.
+
+
+Physical Appearance: Stone-Scales are imposing figures, larger and more heavily built than most Dragonborn, but perhaps more lithe than a pureblood Goliath. Their skin is a mosaic of tough, leathery hide interspersed with patches of draconic scales, often muted in color (greys, browns, dusky reds, deep bronzes, or obsidian-like blacks). Their facial structure blends draconic and goliath features: a strong jawline, prominent brow, and perhaps smaller, swept-back ears or cranial crests. Some might have vestigial claws or a heavier, more powerful, but shorter, tail than a typical Dragonborn. Their overall build speaks of both draconic power and goliath resilience.
+
+\column
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+Place in Aelathar: Most Stone-Scales are nomadic, forced by circumstance and prejudice to traverse the unforgiving Scorched Cradle, the rugged foothills of the Ashen Peaks, or the desolate Salt Wastes. They might find roles as solitary guardians of remote, forgotten places, uniquely skilled guides through dangerous terrains (their combined heritage offering surprising survival insights), or even as misunderstood bounty hunters or mercenaries. Their relationship with the established deities of Aelathar, particularly Voryx (celestial dragon), Kaelgrin (earth titan), and Theramach (fire titan), is often complex; they might feel torn, rejected by all, or choose to forge a unique spiritual path that acknowledges the conflicting powers within their blood. Small, hidden enclaves of Stone-Scales might exist in the deepest wilderness, fiercely protecting their own.
+
+<div class="fixed-image-container" style="
+    position: absolute; / Allows precise positioning /
+    top: 380px;         / Desired distance from the top of the page/container /
+    left: 410px;        / Desired distance from the left of the page/container /
+    width: 350px;       / Desired width of the image container /
+    height: auto;      / Desired height of the image container /
+    overflow: hidden;   / Prevents scrollbars on this container and clips content if it overflows /
+    / border: 1px solid red; / / Optional: uncomment to see the div's boundaries for placement /
+    z-index: 100;       / Helps control stacking order if you have overlapping elements /
+  ">
+  <img src="https://i.ibb.co/Rw7jVq6/Stone-Scaledvs2.png" alt="Descriptive text for your image" style="
+      width: 100%;        / Image fills the width of the container /
+      height: 100%;       / Image fills the height of the container /
+      object-fit: contain; / Ensures the whole image is visible, scaled down if necessary. /
+      display: block;     / Removes extra space below the image /
+    ">
+</div>
+
+<div class='pageNumber auto'></div>
+
+\page
+
+Stone-Scale Traits:
+
+
+Creature Type: You are a Humanoid.
+Size: Medium (though typically stand 6 to well over 7 feet tall and are heavily built).
+Speed: Your base walking speed is 30 feet.
+
+<br>
+
+Hybrid Inheritance: Your mixed lineage grants you the following benefits:
+Draconic Claws: Your hands and feet are tipped with hardened claws, which are natural weapons you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+Powerful Build: You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.  
+
+
+Stone's Endurance: When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled and reduce the damage by that total. After you use this trait, you can’t use it again until you finish a long rest.  
+
+
+Resonant Roar: You can use your action to unleash a powerful, concussive roar in a 15-foot cone. Each creature in that area must make a Constitution saving throw. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. On a failed save, a creature takes 2d6 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn’t pushed. The damage increases by an additional 1d6 when you reach 5th level (3d6), 11th level (4d6), and 17th level (5d6). After you use this trait, you can’t use it again until you complete a short or long rest.  
+
+
+Languages: You can speak, read, and write Common and your choice of either Draconic or Giant.  
+
+{{quote
+"Too dragon for the peaks, too titan for the sky. We walk our own path, carved from the bones of ancient grudges."
+
+{{attribution Unknown origin}}
+}}
+
+<div class='pageNumber auto'></div>
+
+\page
+{{wide
+The Veilkin (Veil-Touched Humanoids)
+
+<br>
+<br>
+
+{{quote
+
+We are the Veil's discordant song, a tapestry of what was, what is, and what should never be. Yet, even in dissonance, a single pure note can sometimes be found.
+
+{{attribution Uknown Origin}}
+}}
+
+}}
+
+
+
+
+
+Origin & Backstory: 
+
+The Veilkin are a poignant testament to the pervasive, corrupting influence of the fractured Veil on Aelathar's mortal inhabitants. They are not a race born of ancient lineage in the traditional sense, but rather individuals whose very being has been deeply and visibly touched by the raw, chaotic energies of the Veil, often from conception or very early childhood. 
+
+They most commonly descend from Human or Elven stock, or a mix thereof, particularly from communities dwelling in areas where the Veil is thin and dangerously unstable (like the Shimmering Sands or near the ominous Black Spire) or from those unfortunate enough to be frequently ravaged by Veilstorms.
+
+ While many who suffer extreme Veil exposure become mindless Veilshard monstrosities or succumb to madness and severe, debilitating mutations, the Veilkin represent a strange, precarious equilibrium. The "wrongs" in their forms—the physical manifestations of chaotic magic—are manifold and varied, but for some, these alterations stabilize, leaving them sentient and self-aware, albeit forever marked as different.
+
+ Society at large in Aelathar often views Veilkin with a mixture of fear, pity, and intense suspicion. They are living reminders of magic's corrupting touch and the ever-present danger of the Veil itself. 
+
+ Many are ostracized, feared as harbingers of Veilstorms or bad luck, or even hunted by zealous Veilwardens who see them as ticking time bombs or conduits for further corruption. Yet, the "glimmer of hope" for the Veilkin lies in their unique, inherent resilience and, for a select few, an intuitive, almost symbiotic connection to the Veil that others lack. 
+
+These individuals learn to navigate their afflictions, sometimes even finding strange strengths or subtle advantages within their altered states, striving to live meaningful lives despite the pervasive prejudice and the inherent dangers tethered to their very existence.
+
+\column
+
+
+
+
+Physical Appearance: Veilkin often possess the slender build that hints at elven ancestry mixed with the varied features of humans, but this underlying form is overlaid with numerous unpredictable, asymmetrical, and often unsettling manifestations of Veil energy. No two Veilkin are exactly alike in their specific markings:
+
+
+Skin: It may shimmer with faint, unnatural, shifting colors (like oily rainbows, bruised twilight hues, or the sickly greens and purples sometimes seen in Veilstorms , exhibit patches of smooth, flawed crystal-like growths (similar to early Crystallization effects but stable from birth), or have intricate, mobile patterns resembling static, heat haze, or flowing arcane glyphs.
+
+Eyes: Could be solid orbs of unsettling color (vibrant violet, dull silver, unnerving emerald green), multifaceted like an insect's, emit a faint, otherworldly glow, or have irises that slowly swirl with an inner light, sometimes reflecting patterns not truly present.
+
+Hair: Might be an unnatural, vibrant color (blues, pinks, stark whites unrelated to age), possess a distinctly crystalline or metallic texture, or even seem to float or drift slightly as if underwater or in a low-gravity environment, subtly defying normal physics.
+
+Other Features: Elongated or subtly pointed ears are common, hinting at their elven/humanoid base. They might possess an extra, non-functional (or eerily graceful) digit on one hand, slightly asymmetrical facial features that are just a little "off," or an almost imperceptible aura that causes a faint buzzing sound, a feeling of static electricity, or a subtle, unplaceable scent (like ozone or strange blossoms [Source: Page 3]) in those who stand very close. These features are generally not debilitating but clearly and permanently mark them as "other."
+
+<div class='pageNumber auto'></div>
+
+\page
+
+
+Veilkin Traits:
+
+
+<br>
+
+
+Creature Type: You are a Humanoid.
+
+Size: Medium.
+
+Speed: Your base walking speed is 30 feet.
+
+Darkvision: Accustomed to the strange light of the Veil or the shadows where you often dwell, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+
+Fey Ancestry: You have advantage on saving throws against being charmed, and magic can’t put you to sleep.  
+
+Preternatural Awareness: You have advantage on Wisdom (Perception) checks that rely on noticing subtle magical disturbances or shifts in the environment related to the Veil (such as the precursor signs of a Veilstorm or areas of thin Veil).
+
+Veil's Imprint: The Veil's chaotic touch has left an indelible mark upon you. Choose one of the following benefits, representing your unique adaptation or "glimmer of hope":
+Shimmering Veil: As a reaction when you are hit by an attack roll, you can cause your form to briefly shimmer and distort with Veil energy. This imposes disadvantage on the triggering attack roll. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+Chaotic Spark: You know one cantrip of your choice from the Sorcerer spell list. Your spellcasting ability for this cantrip is Charisma. Additionally, you gain proficiency in the Arcana skill.
+Warped Mind: The chaotic nature of your being makes your thoughts difficult to grasp. You have resistance to psychic damage.
+Unsettling Grace: Your unique, Veil-touched appearance and mannerisms can be both captivating and disconcerting. You gain proficiency in one of the following skills of your choice: Persuasion or Intimidation.
+
+
+Languages: You can speak, read, and write Common and Elvish.
+
+\column
+
+
+<br>
+
+<br>
+
+<br>
+
+Place in Aelathar: Veilkin are most often found in the shadowed alleys or restricted arcane quarters of Zyndralis (where they might be subjects of intense study, objects of fear, or hidden by those sympathetic to their plight), or as isolated individuals or small, secretive groups near areas of high Veil activity like the Shimmering Sands (if they can develop the means to survive its other harshness). Some may attempt to live anonymously within larger, more cosmopolitan settlements, constantly wary of discovery. 
+
+They might be drawn to the worship of Nyraea the Veilweaver, hoping she can offer understanding, guidance, or protection from the Veil's more malevolent aspects. Others might find a place among the followers of Azryth, Keeper of Shadows, using their unique nature to navigate the world of secrets. 
+
+Those Veilkin who manage to harness their "glimmer of hope" often become cautious explorers of Veil phenomena, unique artists whose creations reflect the unsettling beauty and inherent horror of their existence, or even quiet advocates for others like them, seeking understanding in a world that largely fears what they represent.
+
+<div class="fixed-image-container" style="
+    position: absolute; / Allows precise positioning /
+    top: 480px;         / Desired distance from the top of the page/container /
+    left: 410px;        / Desired distance from the left of the page/container /
+    width: 350px;       / Desired width of the image container /
+    height: auto;      / Desired height of the image container /
+    overflow: hidden;   / Prevents scrollbars on this container and clips content if it overflows /
+    / border: 1px solid red; / / Optional: uncomment to see the div's boundaries for placement /
+    z-index: 100;       / Helps control stacking order if you have overlapping elements /
+  ">
+  <img src="https://i.ibb.co/sTvd5g2/Veilkinv2.png" alt="Descriptive text for your image" style="
+      width: 100%;        / Image fills the width of the container /
+      height: 100%;       / Image fills the height of the container /
+      object-fit: contain; / Ensures the whole image is visible, scaled down if necessary. /
+      display: block;     / Removes extra space below the image /
+    ">
+</div>
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -891,6 +1198,8 @@ Whatever the truth, these other practitioners find their arcane talents function
     ">
 </div>
 
+<div class='pageNumber auto'></div>
+
 \page
 
 Given these dangers, it is no surprise that divine magic is the most prevalent and trusted form of spellcasting across the Scorched Cradle. Those who draw their power from the deities of Aelathar—be they the stern Justicars of Saevyr, the life-tending Verdant Hands of Eryssia, or the knowledge-seeking Shardbound of Voryx—find their magic filtered and mediated. The gods, in their wisdom, sorrow, or perhaps even their own diminished capacity, act as intermediaries, buffering their faithful from the worst of the Veil’s raw, untamed power. While the prayers of a cleric or the oath of a paladin can still falter in places where divine influence wanes or the Veil screams too loudly, they do not carry the same insidious personal cost as the direct manipulation of arcane forces.
@@ -903,6 +1212,7 @@ This observation is a source of both fervent hope and deep unease. Some scholars
 
 This chapter will delve into the specifics of how these different forms of magic function in Aelathar, the unique perils faced by arcane casters, the boons granted by the divine, the resilience of druidic practices, and the ever-present influence of the fractured, sorrowful Veil. For to understand magic in Aelathar is to understand the very soul of the Scorched Cradle.
 
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -920,6 +1230,9 @@ Casting an arcane spell of 3rd level or higher.
 Overcasting: Casting a spell when all appropriate spell slots are depleted by converting Hit Points into temporary spell slots.
 Casting multiple (3 or more) leveled arcane spells in rapid succession (e.g., within 1 minute) without a short rest.
 Aetheric Amplification: Voluntarily attempting to increase a spell's level or power beyond their normal capabilities (DM discretion for how this is attempted and its specific DC).
+
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -1013,6 +1326,7 @@ Localized Veilstorms: Overuse or particularly potent displays of arcane magic ri
 Veilwardens: These enforcers (see Factions) actively hunt or monitor casters deemed reckless or a threat to the Veil's stability.
 Crystallization: The long-term accumulation of Crystallization Points means no caster can escape the cost of magic forever. Becoming a mindless Veilshard is an ever-present danger.
 
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -1029,9 +1343,18 @@ A Veilshard can be crushed as a bonus action to regain one expended 1st-level sp
 
 \page
 
+
+
+{{wide
 Pantheon of Aelathar
 
 The deities of Aelathar are deeply influenced by the world's history, the War of Sundering, and the ever-present Veil. Mortals cling to them for guidance, power, and solace. Some are remnants of the old divine order, others ascended mortals, or personified forces.
+
+}}
+
+
+
+<br>
 
 Major Deities (Figures of the Cataclysm & Primary Powers)
 
@@ -1218,57 +1541,6 @@ These deities often have unique festivals, such as the "Night of Whispers" for A
 
 \page
 
-Major Cities and Regions
-
-New civilizations have clawed their way into existence, each shaped by their unique environment, dominant deity worship, and their approach to the harsh realities of Aelathar.
-
-Korrath (Capital of Korridan Region – likely in the defensible foothills bordering the Salt Wastes and Ashen Peaks)
-Alias: The Iron Bastion.
-Sights/Smells/Sounds: The clang of hammers on anvils from numerous smithies, the rhythmic tramp of disciplined guard patrols, the smell of dust, metal, and boiled rations. Walls are grey and imposing, banners of Saevyr and Kaelgrin are common.
-Description: Korrath is a formidable fortress city, renowned for its seemingly impenetrable walls of dark, iron-rich stone and its disciplined populace. It stands as a bulwark against the horrors of the wastes and the chaos beyond.
-Government: Led by the Iron Council, an austere judiciary and military body enforcing strict laws and maintaining unwavering martial order. Heavily influenced by the clergy of Saevyr.
-Special Laws: All forms of magic, particularly arcane magic, are strictly regulated. Unlicensed or rogue magic users face severe punishment: imprisonment, forced labor in the mines, or exile into the deadly wastes. Veilwardens here are particularly zealous.
-Culture: Korrath fosters a deeply militant and pragmatic society that values discipline, unwavering adherence to the law, and collective strength above individual ambition. Survival and order are paramount. Public displays of emotion are frowned upon. They practice ritualistic combat in Saevyr's honor and hold solemn feasts for Kaelgrin, praying for the earth's stability.
-
-\column
-
-Iravar (Capital of Lyssira Region – heart of the Veiljungles)
-Alias: The Verdant Heart, The City of Whispering Leaves.
-Sights/Smells/Sounds: Homes woven into colossal, glowing trees; the constant hum of insects and chirping of strange birds; the scent of damp earth, exotic flowers, and fermenting fruit; soft music from reed pipes. Structures are organic, blending with the jungle.
-Description: Iravar is a surprisingly lush and vibrant city nestled deep within the perilous Veiljungles, thriving through a deep connection with natural magic and the resilient, if twisted, ecosystem. Buildings are often grown from living wood and stone.
-Government: Governed by the Verdant Conclave, a council composed primarily of powerful druids of Eryssia, skilled healers, and wise elders who interpret the will of the jungle.
-Special Laws: The natural world, especially the Veiljungle, is held as sacred. Harming the jungle, its significant creatures, or disrupting its delicate (albeit corrupted) balance is a grievous offense, often punishable by exile (being left to the jungle's mercy) or ritualistic atonement. Arcane magic is viewed with deep suspicion.
-Culture: Iravar is home to a society that strives for harmony with its environment, prizing ecological balance, community cooperation, and reverence for the cycles of life and nature. They hold seasonal festivals celebrating Eryssia, with ritual hunts and planting ceremonies. Storytelling and herbalism are highly valued arts.
-
-<div class='pageNumber auto'></div>
-
-\page
-
-Orrthar (Capital of Talrova Region – within the Ashen Peaks)
-Alias: The City of Embers, The Sky-Forge.
-Sights/Smells/Sounds: The roar of volcanic vents channeled into forges, the hiss of steam, the rhythmic clang of mining picks, the smell of sulfur, hot metal, and roasted meat. Buildings are carved from volcanic rock, reinforced with dark metal, and lit by geothermal vents or arcane fires.
-Description: Orrthar is a marvel of engineering and resilience, a city built amidst the volatile, volcanic terrain of the Ashen Peaks, harnessing geothermal energy and rich mineral veins.
-Government: Controlled by the Pyric Assembly, a governing body composed of brilliant engineers, master metallurgists, powerful fire mages (often followers of Theramach), and representatives from mining guilds (often Kaelgrin worshippers).
-Special Laws: While fire magic and elemental power are central to Orrthar's existence, the reckless or uncontrolled exploitation of these forces is strictly outlawed to prevent catastrophic volcanic events or magical meltdowns. Innovation is encouraged, but stability is prized.
-Culture: The people of Orrthar are known for their innovative spirit, industrious nature, and mastery of crafts. Metallurgy, engineering, and controlled pyromancy are central to their identity and survival. They hold grand contests of smithing and artistry in Theramach's name, and deep earth-rumbling chants to appease Kaelgrin. They value practicality and resilience.
-
-
-<div class='spirecity'>
-  ![Alt Text](https://i.ibb.co/ZpBRVfP6/Gemini-Generated-Image-6z177p6z177p6z17.jpg) {width:330px}
-</div>
-
-
-
-\column
-
-Zyndralis (Capital of Zynara Region – built around/near the Black Spire in the Scorched Cradle)
-Alias: The Spire City, The Obsidian Oracle.
-Sights/Smells/Sounds: The eerie silence around the Black Spire itself, contrasted with the murmur of arcane research within its academies and the rhythmic chanting of monks; the crackle of arcane energy from experimental labs; the scent of old parchment, exotic incense, and ozone. Architecture is often stark, obsidian-accented, and unsettlingly geometric. The heavy thud of obsidian mining echoes faintly from the Spire's base, and the steady tread of patrolling monks can be heard near the city's edges.
-Description: Zyndralis is a mystical and often unsettling city built in the shadow of, and perhaps even incorporating parts of, the enigmatic Black Spire. It is a center for arcane study, Veil research, and forbidden lore, and the sole source of the unique obsidian mined directly from the Spire itself.
-Government: Ruled by the enigmatic Council of the Obsidian Circle, a secretive body composed primarily of elder monks from the Monastery of the Obsidian Circle. These monks are powerful mages and scholars, dedicated to both guarding the secrets of the Spire and regulating the use of arcane magic within the city.
-Defense: The monks of the Obsidian Circle maintain numerous fortified outposts ringing the Black Spire, from which they vigilantly patrol, preventing unauthorized access and defending against potential threats from the Scorched Cradle or from those who would seek to exploit the Spire's power.
-Special Laws: Arcane magic is both revered as a source of great power and knowledge and simultaneously feared for its potential. Its practice is heavily monitored, with strict protocols, licensing, and often intrusive oversight by the monks. Unsanctioned magic can lead to dire consequences. The mining and export of obsidian are also strictly controlled by the Monastery.
-Culture: Zyndralis is a hub of arcane research, dangerous experimentation, and philosophical debate regarding the Veil and its energies. Its citizens are often more accustomed to the strange and the magical, but also live under a constant tension of discovery versus disaster and the watchful eyes of the monastic order. They observe solemn rituals to Voryx for clarity and Nyraea for protection, and secret societies dedicated to uncovering the Spire's secrets flourish alongside the powerful influence of the Monastery.
 
 <div class='pageNumber auto'></div>
 
@@ -1600,7 +1872,7 @@ Whisperwind Cloak: Grants advantage on Stealth checks and allows the wearer to c
 
 Lore: Favored by scouts and those who need to move unseen in Aelathar's dangerous lands.
 
-
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -1624,7 +1896,7 @@ Lore: Voryx's Regret is believed to be the crystallized sorrow, magical backlash
 
 Drawbacks: Beyond the power-specific costs, attunement slowly erodes the wielder's emotional connections, making them cold, calculating, and obsessed with a grand, often tragic, cosmic balance. They may cease to sleep, haunted by Voryx's visions. Attracts powerful entities from beyond the Veil drawn to its unique resonance.
 
-
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -1646,6 +1918,8 @@ Lore: This is one ofthe largest, most potent fragments of the Heart of Creation,
 <br>
 
 Drawbacks: The wielder's personality becomes increasingly volatile, impulsive, and prone to fits of rage or exuberant creation, mirroring Theramach's nature. Their physical form slowly takes on characteristics of their chosen element (e.g., fiery eyes, stony skin). The artifact constantly leaks elemental energy, making stealth impossible and often causing unintended collateral damage. It attracts powerful elemental creatures who may seek to serve, destroy, or claim the Heart-Fragment.
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -1670,6 +1944,8 @@ Lore: The Scales of Sylvandros are said to be the shed battle regalia of Sylvand
 
 Drawbacks: The wielder is bound by an unyielding code of justice and order, becoming incapable of deceit or acting against their conscience. They are burdened by the immense weight of Sylvandros's sorrow and the responsibility to heal the world. The artifact actively resists any wielder who strays from a path of righteousness or seeks personal power. It is a beacon to both those who would aid its cause and ancient enemies of the Celestial Dragons.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 Kaelgrin's Resonant Core
@@ -1692,6 +1968,8 @@ Lore: This is not a crafted item but a natural focal point of Kaelgrin's immense
 <br>
 
 Drawbacks: The Resonant Core is immobile. The attuned wielder becomes increasingly slow, deliberate, and tied to the earth, finding it difficult to travel far from the Core or act with haste. They might begin to take on stone-like physical traits. Drawing too much power can cause violent, uncontrolled earthquakes or risk prematurely stirring Kaelgrin in a destructive manner. The wielder might become lost in Kaelgrin's dreams.
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -1717,7 +1995,7 @@ Lore: The Shroud of Unmaking is believed to be a literal fragment of the Veil th
 
 Drawbacks: The wearer's mind is constantly exposed to the horrors and chaos of the void, leading to inevitable madness, paranoia, and transformation into something alien. The Shroud actively tries to corrupt the wearer and tempts them to unleash greater chaos. It attracts powerful, hostile extraplanar beings (demons, aberrations, entities of the void). Using its powers always risks widening the tear in the Veil it represents, causing localized disasters or attracting more immediate threats. The Shroud might eventually try to consume its wearer entirely.
 
-
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -1738,6 +2016,7 @@ As Dungeon Master, the creatures detailed herein are more than mere adversaries.
 
 Tread carefully, for the denizens of this shattered world are as desperate, as dangerous, and as deeply scarred as the land itself.
 
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -1804,6 +2083,8 @@ Crystalline Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 
 
 Veil Jaunt (Recharge 5–6). The Mauler momentarily tears the Veil, teleporting up to 30 feet to an unoccupied space it can see. Each creature within 5 feet of the space it left and each creature within 5 feet of the space it appears in must succeed on a DC 12 Dexterity saving throw or take 7 (2d6) force damage as reality briefly distorts.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 Shard-Heart Desolator
@@ -1857,6 +2138,7 @@ Consume Magic (Costs 3 Actions). The Desolator targets one creature it can see w
 
 These should provide some uniquely Aelatharian threats for your players to encounter, directly tied to the corrupted magic and perilous nature of the Veil!
 
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -1910,7 +2192,7 @@ Actions
 *Disorienting Touch:* Melee Spell Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4+3) psychic damage, and the target must succeed on a DC 10 Wisdom saving throw or all attacks against it have advantage until the start of its next turn as its perception of its surroundings briefly warps.
 }}
 
-
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -1982,7 +2264,7 @@ Actions
 
 }}
 
-
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -2077,7 +2359,7 @@ Invoke Veil's Wrath (1/Day): The cultist calls upon the raw power of the Veil. E
 
 
 
-
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -2139,6 +2421,8 @@ For use with any D&D 5.5E 2024
 
 Homebrewery.Naturalcrit.com
 }}
+
+
 
 \page
 
@@ -2306,3 +2590,79 @@ Whispers of Madness: Bonus action, target within 30 ft. makes DC 14 Wis save or 
 Dagger of Veilwarding (Attack Effect): Its dagger attack deals piercing + 2d6 psychic. Hit creature makes DC 14 Wis save or believes cultist's next plausible illusion in next minute.
 Invoke Veil's Wrath (1/Day): Creatures of choice within 20 ft. make DC 14 Con save. Fail: 6d8 force damage and pushed 10 ft. Success: half damage, not pushed. Cultist makes DC 10 Con save or 1 exhaustion level + roll on Veil Corruption Table.
 Used by: Veil-Whisperer Cultist
+
+
+
+
+
+Easy Challenge: Obsidian Shardmite
+These small, predatory constructs or elementals are native to the Glass Expanse, perfectly camouflaged among its myriad dangers. When inactive or hunting, an Obsidian Shardmite flattens its body or compresses its form to resemble a jagged, fist-sized obsidian stalagmite or a sharp chunk of debris common on the deadly plains. Only when prey wanders too close, or when disturbed, does it reveal its true, multi-faceted, insectoid form, skittering forth on razor-sharp legs to slice with its obsidian limbs. They are often encountered in small, skittering groups.
+
+OBSIDIAN SHARDMITE
+Small elemental or construct, Unaligned
+
+Armor Class 13 (natural armor)
+Hit Points 18 (4d6+4)
+Speed 30 ft., climb 30 ft.
+
+STR	DEX	CON	INT	WIS	CHA
+7 (-2)	15 (+2)	12 (+1)	3 (-4)	10 (+0)	5 (-3)
+
+ til Regneark
+Skills Stealth +4 (+6 in rocky or obsidian terrain)
+Damage Vulnerabilities Bludgeoning
+Damage Resistances Piercing, Slashing from nonmagical attacks not made with adamantine weapons
+Damage Immunities Poison
+Condition Immunities Exhaustion, Petrified, Poisoned
+Senses Darkvision 60 ft., Tremorsense 30 ft., Passive Perception 10
+Languages —
+Challenge 1/2 (100 XP)
+Proficiency Bonus +2
+
+False Appearance (Inactive Form). While the Shardmite remains motionless in its inactive form (resembling an obsidian shard or stalagmite), it is indistinguishable from an ordinary piece of obsidian. It has advantage on Dexterity (Stealth) checks made to hide in rocky or obsidian terrain.
+
+Glass Walker. The Shardmite can move across difficult terrain made of glass, obsidian shards, or sharp rocks without expending extra movement.
+
+ACTIONS
+Obsidian Stab. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) piercing damage.
+
+Splintering Burst (Recharge 6). As an action, or as a reaction when it takes damage, the Shardmite can explosively release a hail of tiny obsidian splinters. Each creature within a 5-foot radius of the Shardmite must make a DC 12 Dexterity saving throw, taking 7 (2d6) piercing damage on a failed save, or half as much damage on a successful one.
+
+Medium-Hard Challenge: Obsidian Flayer
+The Obsidian Flayer is a terrifying hunter of the Glass Expanse, a creature seemingly sculpted from the Expanse’s deadliest essence. It moves with an unnatural grace across the razor plains, its body a nightmarish fusion of jagged obsidian plates, sharpened limbs, and reflective surfaces that catch the grim Aelatharian light in disorienting ways. It is said that Flayers are born from areas where the magical energies that created the Glass Expanse still resonate strongly, coalescing into sentient, predatory forms. They are territorial, patient, and exceptionally cruel in their methods of dispatching prey, often using the environment itself as a weapon.
+
+OBSIDIAN FLAYER
+Medium elemental or monstrosity, Neutral Evil
+
+Armor Class 16 (natural obsidian armor)
+Hit Points 112 (15d8+45)
+Speed 40 ft.
+
+STR	DEX	CON	INT	WIS	CHA
+18 (+4)	15 (+2)	16 (+3)	8 (-1)	13 (+1)	10 (+0)
+
+Saving Throws Dex +5, Con +6
+Skills Athletics +7, Perception +4, Stealth +5 (+7 in rocky or obsidian terrain)
+Damage Vulnerabilities Thunder
+Damage Resistances Slashing from nonmagical attacks
+Damage Immunities Poison; Bludgeoning, Piercing, and Slashing from nonmagical attacks not made with adamantine weapons (this overlaps with resistance, effectively immunity to non-adamantine BPS)
+Condition Immunities Exhaustion, Paralyzed, Petrified, Poisoned, Prone
+Senses Darkvision 120 ft. (can see through magical and nonmagical darkness created by obsidian), Passive Perception 14
+Languages Terran, understands Common but rarely speaks
+Challenge 6 (2,300 XP)
+Proficiency Bonus +3
+
+Glass Strider. The Obsidian Flayer ignores difficult terrain made of glass, obsidian shards, or sharp rocks. It can also move up, down, and across vertical obsidian surfaces and upside down along obsidian ceilings, while leaving its hands free. It has a climbing speed equal to its walking speed on such surfaces.
+
+Reflective Defense. Ranged attacks made against the Flayer from more than 30 feet away have disadvantage due to the disorienting reflections from its obsidian hide.
+
+Siege Monster (Obsidian Strikes). The Flayer deals double damage to objects and structures with its obsidian melee attacks. (This is an adaptation of the SRD Siege Monster trait.)
+
+ACTIONS
+Multiattack. The Flayer makes two attacks: one with its Obsidian Claw and one with its Shard Whip.
+
+Obsidian Claw. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6+4) slashing damage. If the target is a creature other than an elemental or construct, it must succeed on a DC 14 Constitution saving throw or lose 1d4 hit points at the start of each of its turns due to deep, bleeding obsidian cuts. Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
+
+Shard Whip. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 8 (1d8+4) slashing damage, and the target must succeed on a DC 14 Dexterity saving throw or be pulled up to 10 feet straight toward the Flayer.
+
+Razor Shard Field (Recharge 5–6). The Obsidian Flayer causes the ground in a 20-foot radius centered on itself to erupt with jagged obsidian shards. This area is difficult terrain and lasts for 1 minute or until the Flayer uses this action again. When a creature moves into or within the area for the first time on a turn or ends its turn there, it takes 9 (2d8) piercing damage. A creature moving through the area at half speed doesn't need to make this saving throw.
