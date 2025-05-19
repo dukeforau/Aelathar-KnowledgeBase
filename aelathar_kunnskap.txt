@@ -1541,6 +1541,23 @@ These deities often have unique festivals, such as the "Night of Whispers" for A
 
 \page
 
+The World of Aelathar
+Geography
+Aelathar is a vast, disc-shaped continent, a scarred and battered platter adrift in an often-tempestuous Outer Sea. Its very structure seems to echo the concentric shockwaves of the Veilshatter Cataclysm that defined its bleak destiny. From its turbulent outer waters to the terrifying epicenter of its devastation, Aelathar is a world of distinct, layered rings, each presenting unique challenges and horrors to those who dare to call it home or foolishly seek to traverse it.
+The Outer Sea (The Endless Churn)
+Encircling the entire disc of Aelathar is the Outer Sea, a vast and treacherous expanse of dark, turbulent waters.
+Nature: Rarely calm, the sea is plagued by violent storms, rogue waves of immense size, and unnaturally strong currents that seem to pull ships towards unseen dooms or dash them against the jagged, unwelcoming coasts of the Salt Wastes. The water itself is often frigid, tasting bitterly of brine and something older, more unsettling – perhaps the dissolved sorrow of the world.
+Mysteries & Dangers: Legends speak of colossal, unseen leviathans that dwell in its lightless depths, creatures that predate the Cataclysm or were born from its primal oceanic upheavals. Ghostly lights are sometimes seen dancing on the waves far from shore, luring sailors to their doom, and unnatural fogs can descend without warning, disorienting even the most experienced navigators. Few dare to sail far from Aelathar’s shores, and even fewer return. The Cradle Sea, a vast subterranean ocean, is rumored to have hidden, perilous connections to this Outer Sea in the deepest underwater trenches.
+
+The Salt Wastes (The Desiccated Ring)
+The first terrestrial ring forming the "crust" of Aelathar is the immense and arid Salt Wastes.
+Nature: Stretching for countless leagues, these seemingly endless salt flats glitter cruelly under the harsh sun, a white, cracked expanse that offers little life and even less hope. The silence here is profound, broken only by the crunch of salt underfoot and the mournful whistling of the wind that carries fine, stinging salt particles. What little water can be found is often hypersaline or tainted.
+Magical Infusion & Perils: A direct consequence of the Veilshatter Cataclysm, the Salt Wastes were formed as rivers boiled away and fertile soil turned to dust, leaving behind vast salt deposits deeply infused with residual, chaotic magical energy. These salts sometimes shimmer with faint, sickly colors (greens, purples, bruised twilight hues). Prolonged exposure is not only inhospitable but actively dangerous, leading to severe dehydration, madness, salt-encrusted mutations, and encounters with salt-cryst creatures like the Salt-Cryst Stalker. Mirages are common, often imbued with Veil energy, whispering lies or showing tantalizing glimpses of impossible oases.
+Inhabitants: Only the hardiest Human or Orcish nomadic tribes traverse its deeper sections, possessing secret ways to find brackish water or navigate by subtle salt patterns. Mining colonies, primarily of Dwarves and Humans, cling to the more stable inner edges of this ring, where it borders the Inhabitable Lands, seeking rare minerals amidst the desolation. Korrath, the Iron Bastion, is situated in the defensible foothills where the Salt Wastes begin to transition.
+
+\page
+
+
 
 <div class='pageNumber auto'></div>
 
